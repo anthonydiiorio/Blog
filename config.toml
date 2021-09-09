@@ -1,0 +1,5 @@
+baseURL = 'https://thetechzoinelive.com/'
+languageCode = 'en-us'
+title = 'The Tech Zone Live'
+
+theme = 'PaperMod'
