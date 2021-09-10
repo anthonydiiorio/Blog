@@ -202,7 +202,7 @@ The Retevis RT8 GPS is a pretty nice radio. Being a monobander with a superheter
 I would definitely recommend this radio, and installing the custom firmware!
 
 ### Availability
-[Retevis RT8](https://www.retevis.com/rt8)
+[Retevis](https://www.retevis.com/)
 
 ###### Disclosures
 I was not financially compensated for this review. Retevis provided the RT8 sample for review. The opinions expressed in my review are my own based on my experience with the product.

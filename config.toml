@@ -3,3 +3,86 @@ languageCode = 'en-us'
 title = 'The Tech Zone Live'
 
 theme = 'PaperMod'
+
+[params]
+env = "production"
+title = "The Tech Zone Live"
+description = "The Tech Zone Live, a Technology Blog by Anthony Di Iorio"
+keywords = [ "Blog", "Anthony Di Iorio"]
+author = "Anthony Di Iorio"
+images = [ "/twitter.jpg" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "dark"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+ [params.assets]
+ favicon      = "/favicon.png"
+ favicon16x16 = "/favicon-16x16.png"
+ favicon32x32 = "/favicon-32x32.png"
+ apple_touch_icon = "/favicon.png"
+ safari_pinned_tab = "/favicon.png"
+
+  [params.profileMode]
+  enabled = false
+  title = "Anthony Di Iorio"
+  subtitle = ""
+  imageUrl = "/anthony.jpg"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
+
+  [[params.profileMode.buttons]]
+  name = "Posts"
+  url = "posts"
+
+  [[params.profileMode.buttons]]
+  name = "Tags"
+  url = "tags"
+
+#  [params.homeInfoParams]
+#  Title = "Hi there 👋"
+#  Content = "Welcome to my blog"
+#
+#  [[params.socialIcons]]
+#  name = "twitter"
+#  url = "https://twitter.com/ve2hew"
+#
+#  [[params.socialIcons]]
+#  name = "youtube"
+#  url = "https://youtube.com/anthonydiiorio"
+#
+#  [[params.socialIcons]]
+#  name = "rss"
+#  url = "/index.xml"
+
+
+
+[[menu.main]]
+identifier = "twitter"
+name = "twitter"
+url = "https://twitter.com/ve2hew"
+weight = 10
+
+[[menu.main]]
+identifier = "youtube"
+name = "youtube"
+url = "https://youtube.com/anthonydiiorio"
+weight = 20
+
+[[menu.main]]
+identifier = "contact"
+name = "contact"
+url = "/contact"
+weight = 30
