@@ -13,6 +13,7 @@ cover:
 A few months back I joined the [Massdrop](https://www.massdrop.com/r/H6WV3U) group buy for the ErgoDox. If you don't know what [Massdrop](https://www.massdrop.com/r/H6WV3U) or a group buy is, basically it allows you to join in on a bulk purchase of a product so the group can get a lower price. Since the ErgoDox requires cooperation from component vendors, a PCB manufacturer, and a company that can do laser cutting, it took absolutely ages for the kit to arrive.
 
 Now this keyboard isn't exactly what I'd call affordable. It costs 200 for the keyboard, $45 extra if you want keycaps, and I think they also have more expensive switch options because they're hard to source (but don't quote me on that because the group buy isn't going on at the time of this review so I can't see the price breakdown).
+
 {{< rawhtml >}}
 <iframe width="100%" height="404" src="https://www.youtube.com/embed/oeJk_43UmGQ" frameborder="0" allowfullscreen></iframe>
 {{< /rawhtml >}}
@@ -24,9 +25,11 @@ Now while we're here, I'd like to take a minute to explain the alternative to Ma
 Everything you need to get started can be found at [ErgoDox.org](http://ergodox.org/)
 
 ## Assembly
+
 {{< rawhtml >}}
 <iframe width="100%" height="404" src="https://www.youtube.com/embed/GpCaQGGcdOE" frameborder="0" allowfullscreen></iframe>
 {{< /rawhtml >}}
+
 If you're new to soldering, I highly recommend checking out the EEVBlog's videos about soldering. I've linked them below:
 
 [Part 1 - Tools](https://www.youtube.com/watch?v=J5Sb21qbpEQ)  
