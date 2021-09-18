@@ -12,9 +12,9 @@ A few months back I took an interest in building a quadcopter. I decided to go t
 
 There are a few versions of the Hubsan X4:
 
-- [H107L](http://amzn.to/1L3HLTf) - Standard
-- [H107C](http://amzn.to/1S8kTTR) - Camera
-- [H107D](http://amzn.to/1S8kWyW) - FPV
+- H107L - Standard
+- H107C - Camera
+- H107D - FPV
 
 The H107C only costs $10 more, but I don't think it's worth the weight of the camera and the extra energy to power it. The X4 doesn't have a great flight time in it's standard form; adding a camera won't help that. I also think the FPV version is a waste of money because it costs over $100 more than the standard unit.
 
@@ -38,7 +38,13 @@ The X4's included 240mAh battery lasts for around 5 minutes. You can get a large
 ## Conclusion
 
 For around $40, the Hubsan X4 can't be beat. I would strongly recommend it over any of those other quadcopters that use a smartphone as a remote. With this, you'll learn the controls properly so you can train yourself before moving up to a larger and more expensive quad.
-___
+
+## Purchase
+
+Purchase: [Amazon: Hubsan X4](https://amzn.to/3i4uXlJ)
 
 #### Disclosures
+
+As an Amazon Associate I earn a commission from qualifying purchases.
+
 I purchased the product with my own funds. The opinions expressed in this review are my own, no one reviewed the content before it was posted, and I am not being compensated for my review.

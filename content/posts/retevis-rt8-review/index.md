@@ -10,8 +10,6 @@ cover:
 
 The Retevis RT8 GPS is an inexpensive handheld radio with DMR digital voice capability, packed with many cool features, and very extensible with custom firmware.
 
-
-
 - [Video Review](#video-review)
 - [First Impressions](#first-impressions)
 - [Programming](#programming)
@@ -174,7 +172,6 @@ Set your radio **Brand** to Chinese Radio, **APRS interval** to 60 sec, **APRS C
 
 ![](selfcare-min.png)
 
-
 ### APRS.fi
 
 Once your radio locks to GPS and you're on a channel with a GPS System enabled, your APRS packets should start showing up on [APRS.fi](https://aprs.fi/)
@@ -204,5 +201,10 @@ I would definitely recommend this radio, and installing the custom firmware!
 ### Availability
 [Retevis](https://www.retevis.com/)
 
+Purchase: [Amazon](https://amzn.to/3nHrCfT)
+
 ###### Disclosures
-I was not financially compensated for this review. Retevis provided the RT8 sample for review. The opinions expressed in my review are my own based on my experience with the product.
+
+As an Amazon Associate I earn a commission from qualifying purchases.
+
+Retevis provided the RT8 sample for review.The opinions expressed in my review are my own based on my experience with the product. I was not financially compensated for this review. 

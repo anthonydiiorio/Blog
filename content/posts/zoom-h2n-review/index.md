@@ -36,5 +36,12 @@ Overall I've been fairly impressed with the audio from the H2n. It's been really
 
 Holy moly I've had this thing for a while and it's mostly held up. I had one issue after repeated use of the line in port. A solder joint cracked which caused a weird distortion after unplugging an external source. It was a very easy repair, I just reflowed the solder on that connector. The H2n comes apart easily.
 
+## Purchase
+
+Purchase: [Amazon: Zoom H2n](https://amzn.to/3EFHXrF)
+
 #### Disclosures
+
+As an Amazon Associate I earn a commission from qualifying purchases.
+
 I purchased the product with my own funds. The opinions expressed in this review are my own, no one reviewed the content before it was posted, and I am not being compensated for my review.
