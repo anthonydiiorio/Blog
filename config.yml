@@ -11,7 +11,7 @@ buildExpired: false
 
 enableEmoji: true
 
-# googleAnalytics: UA-8798487-3
+googleAnalytics: UA-8798487-4
 
 minify:
   disableXML: true
