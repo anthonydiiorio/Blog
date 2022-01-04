@@ -1,0 +1,138 @@
+baseURL: 'https://thetechzonelive.com/'
+languageCode: en-us
+title: Anthony Di Iorio
+paginate: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+enableEmoji: true
+
+# googleAnalytics: UA-8798487-3
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Anthony Di Iorio"
+  description: "A Technology Blog by Anthony Di Iorio. Montreal, QC."
+  keywords: [Blog, Anthony Di Iorio, Montreal, Tech, Home Lab, VE2HEW]
+  author: Anthony Di Iorio
+  images: ["/summary.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/favicon-16x16.png"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/apple-touch-icon.png"
+
+  label:
+    text: "Anthony Di Iorio"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Anthony Di Iorio
+    subtitle: "Good milk = strong bones."
+    imageUrl: "/anthony.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Me
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi."
+    Content: >
+      Welcome to my blog.
+
+      - I'm Anthony from [**Montreal**](https://en.wikipedia.org/wiki/Montreal). I like to write about tech stuff.
+
+      - Sometimes on the airwaves as 📻 [**VE2HEW**](https://ve2hew.com) 
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/ve2hew'
+    - name: youtube
+      url: 'https://youtube.com/anthonydiiorio'
+    - name: flickr
+      url: 'https://flickr.com/photos/anthonydiiorio/'
+    - name: rss
+      url: /index.xml
+
+  #analytics:
+  #  google:
+  #    SiteVerificationTag: "XYZabc"
+  #  bing:
+  #    SiteVerificationTag: "XYZabc"
+  #  yandex:
+  #    SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false  # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  #editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  #fuseOpts:
+  #  isCaseSensitive: false
+  #  shouldSort: true
+  #  location: 0
+  #  distance: 1000
+  #  threshold: 0.4
+  #  minMatchCharLength: 0
+  #  keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: Ham Radio
+      name: Ham Radio
+      url: 'https://ve2hew.com'
+      weight: 10
+    #- identifier: Twitter
+    #  name: Twitter
+    #  url: 'https://twitter.com/ve2hew'
+    #  weight: 20
+    #- identifier: YouTube
+    #  name: YouTube
+    #  url: 'https://youtube.com/anthonydiiorio'
+    #  weight: 30
+    - identifier: Contact
+      name: Contact
+      url: /contact
+      weight: 40
