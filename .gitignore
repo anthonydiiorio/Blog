@@ -3,6 +3,7 @@ deploy.bat
 # Hugo default output directory
 /public
 /resources
+.hugo_build.lock
 
 ## OS Files
 # Windows
