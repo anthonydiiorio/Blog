@@ -1,10 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>The Tech Zone Live</title><link>https://thetechzonelive.com/</link><description>Recent content on The Tech Zone Live</description><image><url>https://thetechzonelive.com/summary.jpg</url><link>https://thetechzonelive.com/summary.jpg</link></image><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://thetechzonelive.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://thetechzonelive.com/contact/</link><pubDate>Mon, 08 Feb 2021 19:44:33 -0500</pubDate><guid>https://thetechzonelive.com/contact/</guid><description> Full Name Email Address Message</description></item><item><title>Retevis RT8 Review</title><link>https://thetechzonelive.com/posts/retevis-rt8-review/</link><pubDate>Fri, 29 Nov 2019 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/retevis-rt8-review/</guid><description>The Retevis RT8 GPS is an inexpensive handheld radio with DMR digital voice capability, packed with many cool features, and very extensible with custom firmware.
-Video Review First Impressions Programming GPS to APRS Custom Firmware Conclusion Video Review First Impressions The RT8 has a solid plastic case with a nice finish. The radio is rated IP67 for dust and water resistance and has gaskets around the accessory port, battery, and battery contacts.</description></item><item><title>Acer S243HL Monitor Repair</title><link>https://thetechzonelive.com/posts/acer-s243hl-monitor-repair/</link><pubDate>Wed, 07 Sep 2016 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/acer-s243hl-monitor-repair/</guid><description>Another Acer monitor bites the dust! Previously, my B243H failed a month before the warranty expired, it was repaired by Acer. Unfortunately, this S243HL was out of warranty so I took the repair into my own hands.
-A common fault across cheap consumer grade monitors is lousy Chinese capacitors that fail rather quickly. In this case just over 3 years. The culprit, two Su&amp;rsquo;Scon SG Series 470uF 16v capacitors that bulged.</description></item><item><title>Fnatic Gear Rush Mechanical Keyboard Review</title><link>https://thetechzonelive.com/posts/fnatic-rush-review/</link><pubDate>Thu, 31 Mar 2016 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/fnatic-rush-review/</guid><description>Last week I reviewed Fnatic Gear&amp;rsquo;s Flick mouse, and Focus mouse pad, which means it&amp;rsquo;s time for the review of the Rush Mechanical Keyboard!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anthony Di Iorio</title>
+    <link>https://thetechzonelive.com/</link>
+    <description>Recent content on Anthony Di Iorio</description>
+    <image>
+      <url>https://thetechzonelive.com/summary.jpg</url>
+      <link>https://thetechzonelive.com/summary.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://thetechzonelive.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://thetechzonelive.com/contact/</link>
+      <pubDate>Mon, 08 Feb 2021 19:44:33 -0500</pubDate>
+      
+      <guid>https://thetechzonelive.com/contact/</guid>
+      <description> Full Name Email Address Message   </description>
+    </item>
+    
+    <item>
+      <title>Retevis RT8 Review</title>
+      <link>https://thetechzonelive.com/posts/retevis-rt8-review/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/retevis-rt8-review/</guid>
+      <description>The Retevis RT8 GPS is an inexpensive handheld radio with DMR digital voice capability, packed with many cool features, and very extensible with custom firmware.
+ Video Review First Impressions Programming GPS to APRS Custom Firmware Conclusion  Video Review  First Impressions The RT8 has a solid plastic case with a nice finish. The radio is rated IP67 for dust and water resistance and has gaskets around the accessory port, battery, and battery contacts.</description>
+    </item>
+    
+    <item>
+      <title>Acer S243HL Monitor Repair</title>
+      <link>https://thetechzonelive.com/posts/acer-s243hl-monitor-repair/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/acer-s243hl-monitor-repair/</guid>
+      <description>Another Acer monitor bites the dust! Previously, my B243H failed a month before the warranty expired, it was repaired by Acer. Unfortunately, this S243HL was out of warranty so I took the repair into my own hands.
+ A common fault across cheap consumer grade monitors is lousy Chinese capacitors that fail rather quickly. In this case just over 3 years. The culprit, two Su&amp;rsquo;Scon SG Series 470uF 16v capacitors that bulged.</description>
+    </item>
+    
+    <item>
+      <title>Fnatic Gear Rush Mechanical Keyboard Review</title>
+      <link>https://thetechzonelive.com/posts/fnatic-rush-review/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/fnatic-rush-review/</guid>
+      <description>Last week I reviewed Fnatic Gear&amp;rsquo;s Flick mouse, and Focus mouse pad, which means it&amp;rsquo;s time for the review of the Rush Mechanical Keyboard!
 The Rush is a full size 104 key mechanical keyboard available in your choice of either Cherry MX Red, Blue, or Brown mechanical switches. The keyboard features a soft touch casing, red backlighting, and onboard storage for macros.
-Video Review Build Quality and Features The Rush is a solid keyboard!</description></item><item><title>Fnatic Flick Mouse &amp; Focus Mouse Pad Review</title><link>https://thetechzonelive.com/posts/fnatic-flick-focus/</link><pubDate>Tue, 22 Mar 2016 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/fnatic-flick-focus/</guid><description>If you&amp;rsquo;re familiar with gaming tournaments you&amp;rsquo;ve probably heard of Fnatic before. They have 5 different gaming teams, and you can usually find them dominating their opponents live on Twitch. That being said, I was pretty excited to check out the latest gaming peripherals they had to offer.
-Video Review FLICK Optical Gaming Mouse Review The Flick is a no nonsense gaming mouse, with a clean design, comfortable layout, and features the flawless Pixart 3310 optical sensor.</description></item><item><title>Checking out Ford's Racing Simulator</title><link>https://thetechzonelive.com/posts/ford-racing-sim/</link><pubDate>Fri, 11 Mar 2016 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/ford-racing-sim/</guid><description>So this was my first experience on a full motion racing sim, and I was pretty impressed with how that extra layer of force feedback adds to the realism of the game. I&amp;rsquo;ve tried other rigs with vibration motors, and others with just a triple monitor setup, but this was just on another level of realism. Unfortunately, Ford&amp;rsquo;s using rFactor 1 which happens to be a 10 year old sim, and while it doesn&amp;rsquo;t exactly have the greatest graphics or physics in the world, it was still a great experience.</description></item><item><title>Hubsan X4 Review</title><link>https://thetechzonelive.com/posts/hubsan-x4-review/</link><pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/hubsan-x4-review/</guid><description>A few months back I took an interest in building a quadcopter. I decided to go the entry-level route and picked up a cheap quad that gets praised on /r/multicopter, the Hubsan X4.
+Video Review  Build Quality and Features The Rush is a solid keyboard!</description>
+    </item>
+    
+    <item>
+      <title>Fnatic Flick Mouse &amp; Focus Mouse Pad Review</title>
+      <link>https://thetechzonelive.com/posts/fnatic-flick-focus/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/fnatic-flick-focus/</guid>
+      <description>If you&amp;rsquo;re familiar with gaming tournaments you&amp;rsquo;ve probably heard of Fnatic before. They have 5 different gaming teams, and you can usually find them dominating their opponents live on Twitch. That being said, I was pretty excited to check out the latest gaming peripherals they had to offer.
+Video Review  FLICK Optical Gaming Mouse Review The Flick is a no nonsense gaming mouse, with a clean design, comfortable layout, and features the flawless Pixart 3310 optical sensor.</description>
+    </item>
+    
+    <item>
+      <title>Checking out Ford&#39;s Racing Simulator</title>
+      <link>https://thetechzonelive.com/posts/ford-racing-sim/</link>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/ford-racing-sim/</guid>
+      <description>So this was my first experience on a full motion racing sim, and I was pretty impressed with how that extra layer of force feedback adds to the realism of the game. I&amp;rsquo;ve tried other rigs with vibration motors, and others with just a triple monitor setup, but this was just on another level of realism. Unfortunately, Ford&amp;rsquo;s using rFactor 1 which happens to be a 10 year old sim, and while it doesn&amp;rsquo;t exactly have the greatest graphics or physics in the world, it was still a great experience.</description>
+    </item>
+    
+    <item>
+      <title>Hubsan X4 Review</title>
+      <link>https://thetechzonelive.com/posts/hubsan-x4-review/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/hubsan-x4-review/</guid>
+      <description>A few months back I took an interest in building a quadcopter. I decided to go the entry-level route and picked up a cheap quad that gets praised on /r/multicopter, the Hubsan X4.
 There are a few versions of the Hubsan X4:
-H107L - Standard H107C - Camera H107D - FPV The H107C only costs $10 more, but I don&amp;rsquo;t think it&amp;rsquo;s worth the weight of the camera and the extra energy to power it.</description></item><item><title>ErgoDox Review</title><link>https://thetechzonelive.com/posts/ergodox-review/</link><pubDate>Wed, 06 Aug 2014 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/ergodox-review/</guid><description>Preface A few months back I joined the Massdrop group buy for the ErgoDox. If you don&amp;rsquo;t know what Massdrop or a group buy is, basically it allows you to join in on a bulk purchase of a product so the group can get a lower price. Since the ErgoDox requires cooperation from component vendors, a PCB manufacturer, and a company that can do laser cutting, it took absolutely ages for the kit to arrive.</description></item><item><title>Zoom H2n Review</title><link>https://thetechzonelive.com/posts/zoom-h2n-review/</link><pubDate>Sun, 30 Dec 2012 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/zoom-h2n-review/</guid><description>I&amp;rsquo;ve had the Zoom H2n for around 6 months now, and I think it&amp;rsquo;s time for a review. You may not have noticed, but a lot of the videos up on my YouTube channel are recorded using this microphone before I got my EV RE27/nd.
-Features The H2n has four capsules hidden under the head basket which allows the mic to have four modes of recording: Stereo XY, 2 or 4 Channel Surround, and Mid Side.</description></item><item><title>PA2V2 Headphone Amplifier Review</title><link>https://thetechzonelive.com/posts/pa2v2-headphone-amplifier-review/</link><pubDate>Wed, 20 Apr 2011 00:00:00 -0400</pubDate><guid>https://thetechzonelive.com/posts/pa2v2-headphone-amplifier-review/</guid><description>In today&amp;rsquo;s episode, I&amp;rsquo;ll be featuring the Electric-Avenues PA2V2. After about a week&amp;rsquo;s use, I&amp;rsquo;ve been very pleased with the audio quality this pocket amplifier can produce.
-The PA2V2 is short for Pocket Amplifier 2 Version 2 and is hand made here in Canada. This amp has a full ABS plastic enclosure and uses a ruby red translucent faceplate to hold the components on the front. The faceplate also allows you to see some of the components on the inside and the bright LED that illuminates when the power switch is on.</description></item></channel></rss>
+ H107L - Standard H107C - Camera H107D - FPV  The H107C only costs $10 more, but I don&amp;rsquo;t think it&amp;rsquo;s worth the weight of the camera and the extra energy to power it.</description>
+    </item>
+    
+    <item>
+      <title>ErgoDox Review</title>
+      <link>https://thetechzonelive.com/posts/ergodox-review/</link>
+      <pubDate>Wed, 06 Aug 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/ergodox-review/</guid>
+      <description>Preface A few months back I joined the Massdrop group buy for the ErgoDox. If you don&amp;rsquo;t know what Massdrop or a group buy is, basically it allows you to join in on a bulk purchase of a product so the group can get a lower price. Since the ErgoDox requires cooperation from component vendors, a PCB manufacturer, and a company that can do laser cutting, it took absolutely ages for the kit to arrive.</description>
+    </item>
+    
+    <item>
+      <title>Zoom H2n Review</title>
+      <link>https://thetechzonelive.com/posts/zoom-h2n-review/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/zoom-h2n-review/</guid>
+      <description>I&amp;rsquo;ve had the Zoom H2n for around 6 months now, and I think it&amp;rsquo;s time for a review. You may not have noticed, but a lot of the videos up on my YouTube channel are recorded using this microphone before I got my EV RE27/nd.
+Features The H2n has four capsules hidden under the head basket which allows the mic to have four modes of recording: Stereo XY, 2 or 4 Channel Surround, and Mid Side.</description>
+    </item>
+    
+    <item>
+      <title>PA2V2 Headphone Amplifier Review</title>
+      <link>https://thetechzonelive.com/posts/pa2v2-headphone-amplifier-review/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://thetechzonelive.com/posts/pa2v2-headphone-amplifier-review/</guid>
+      <description>In today&amp;rsquo;s episode, I&amp;rsquo;ll be featuring the Electric-Avenues PA2V2. After about a week&amp;rsquo;s use, I&amp;rsquo;ve been very pleased with the audio quality this pocket amplifier can produce.
+ The PA2V2 is short for Pocket Amplifier 2 Version 2 and is hand made here in Canada. This amp has a full ABS plastic enclosure and uses a ruby red translucent faceplate to hold the components on the front. The faceplate also allows you to see some of the components on the inside and the bright LED that illuminates when the power switch is on.</description>
+    </item>
+    
+  </channel>
+</rss>

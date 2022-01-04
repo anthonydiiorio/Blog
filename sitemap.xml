@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://thetechzonelive.com/contact/</loc><lastmod>2021-02-08T19:44:33-05:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/</loc><lastmod>2019-11-29T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/retevis-rt8-review/</loc><lastmod>2019-11-29T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/</loc><lastmod>2019-11-29T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/acer-s243hl-monitor-repair/</loc><lastmod>2016-09-07T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/fnatic-rush-review/</loc><lastmod>2016-03-31T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/fnatic-flick-focus/</loc><lastmod>2016-03-22T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/ford-racing-sim/</loc><lastmod>2016-03-11T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/hubsan-x4-review/</loc><lastmod>2015-07-13T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/ergodox-review/</loc><lastmod>2014-08-06T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/zoom-h2n-review/</loc><lastmod>2012-12-30T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/posts/pa2v2-headphone-amplifier-review/</loc><lastmod>2011-04-20T00:00:00-04:00</lastmod></url><url><loc>https://thetechzonelive.com/categories/</loc></url><url><loc>https://thetechzonelive.com/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://thetechzonelive.com/contact/</loc>
+    <lastmod>2021-02-08T19:44:33-05:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/</loc>
+    <lastmod>2019-11-29T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/</loc>
+    <lastmod>2019-11-29T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/retevis-rt8-review/</loc>
+    <lastmod>2019-11-29T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/acer-s243hl-monitor-repair/</loc>
+    <lastmod>2016-09-07T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/fnatic-rush-review/</loc>
+    <lastmod>2016-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/fnatic-flick-focus/</loc>
+    <lastmod>2016-03-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/ford-racing-sim/</loc>
+    <lastmod>2016-03-11T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/hubsan-x4-review/</loc>
+    <lastmod>2015-07-13T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/ergodox-review/</loc>
+    <lastmod>2014-08-06T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/zoom-h2n-review/</loc>
+    <lastmod>2012-12-30T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/posts/pa2v2-headphone-amplifier-review/</loc>
+    <lastmod>2011-04-20T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://thetechzonelive.com/categories/</loc>
+  </url><url>
+    <loc>https://thetechzonelive.com/tags/</loc>
+  </url>
+</urlset>

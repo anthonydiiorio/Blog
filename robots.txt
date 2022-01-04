@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thetechzonelive.com/sitemap.xml
