@@ -34,7 +34,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
-  disableScrollToTop: false
+  disableScrollToTop: true
   comments: false
   hidemeta: false
   hideSummary: false
