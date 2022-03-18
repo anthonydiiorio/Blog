@@ -38,13 +38,3 @@ The X4's included 240mAh battery lasts for around 5 minutes. You can get a large
 ## Conclusion
 
 For around $40, the Hubsan X4 can't be beat. I would strongly recommend it over any of those other quadcopters that use a smartphone as a remote. With this, you'll learn the controls properly so you can train yourself before moving up to a larger and more expensive quad.
-
-## Purchase
-
-Purchase: [Amazon: Hubsan X4](https://amzn.to/3i4uXlJ)
-
-#### Disclosures
-
-As an Amazon Associate I earn a commission from qualifying purchases.
-
-I purchased the product with my own funds. The opinions expressed in this review are my own, no one reviewed the content before it was posted, and I am not being compensated for my review.

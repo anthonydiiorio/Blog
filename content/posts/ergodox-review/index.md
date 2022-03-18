@@ -47,7 +47,7 @@ Things you'll need for the build:
 - Good lighting so you can see the small components and polarity of the diodes
 - Multimeter for troubleshooting 
 
-For my build, I used a Hakko FX888D which I reviewed a while back on my channel. It's a pretty fantastic digitally controlled soldering station that is reasonably priced  at ~$90 [Amazon](http://http://www.amazon.com/gp/product/B00AWUFVY8?ie=UTF8&camp=213733&creative=393185&creativeASIN=B00AWUFVY8&linkCode=shr&tag=ttzl-20&linkId=DXH2PXUJLQRKAGMD&qid=1407337032&sr=8-1&keywords=fx888d)
+For my build, I used a Hakko FX888D which I reviewed a while back on my channel. It's a pretty fantastic digitally controlled soldering station that is reasonably priced.
 
 {{< rawhtml >}}
 <iframe width="100%" height="404" src="https://www.youtube.com/embed/Nd1WJ3NZIMI" frameborder="0" allowfullscreen></iframe>
@@ -70,7 +70,7 @@ Well this depends mostly on how well the kit is put together, but by design it's
 
 ### Keycaps and Layout
 
-[Massdrop](https://www.massdrop.com/r/H6WV3U) offers either DSA or DCS keycaps for the ErgoDox. I went with the black DSA PBT keycaps for mine and I find them quite comfortable. Signature Plastics offers a variety of Base and Modifier sets for the ErgoDox, so you can customize it to your heart's content. [Signature Plastics](http://http://keyshop.pimpmykeyboard.com/products/full-keysets/dsa-blank-sets-1)
+[Massdrop](https://www.massdrop.com/r/H6WV3U) offers either DSA or DCS keycaps for the ErgoDox. I went with the black DSA PBT keycaps for mine and I find them quite comfortable.
 
 The keys are blank so you can make any layout you want in the layout editor. Since the layout is stored on the keyboard's microcontroller, you can even program an alternative layout such as Dvorak or Colemak and it'll work on any computer you plug the keyboard into without messing with operating system settings. This is good if you carry the keyboard with you and use it on school computers or at your workplace. 
 

@@ -28,20 +28,13 @@ One of the things I actually dislike on the H2n is the glossy piano black finish
 
 ## Conclusion
 
-Overall I've been fairly impressed with the audio from the H2n. It's been really handy for a number of projects, and it's paid itself off time and time again. So if you're in the market for a small, affordable, and highly configurable field recorder, the H2n is an incredible value. You can find it on [Amazon: Zoom H2n](http://www.amazon.com/gp/product/B005CQ2ZY6/ref=as_li_ss_tl?ie=UTF8&tag=ttzl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B005CQ2ZY6)
-
+Overall I've been fairly impressed with the audio from the H2n. It's been really handy for a number of projects, and it's paid itself off time and time again. So if you're in the market for a small, affordable, and highly configurable field recorder, the H2n is an incredible value.
 *Note: The H2n can't provide 48v phantom power, only plug power for lav mics.
 
 ## 2021 Update
 
 Holy moly I've had this thing for a while and it's mostly held up. I had one issue after repeated use of the line in port. A solder joint cracked which caused a weird distortion after unplugging an external source. It was a very easy repair, I just reflowed the solder on that connector. The H2n comes apart easily.
 
-## Purchase
-
-Purchase: [Amazon: Zoom H2n](https://amzn.to/3EFHXrF)
-
 #### Disclosures
-
-As an Amazon Associate I earn a commission from qualifying purchases.
 
 I purchased the product with my own funds. The opinions expressed in this review are my own, no one reviewed the content before it was posted, and I am not being compensated for my review.
