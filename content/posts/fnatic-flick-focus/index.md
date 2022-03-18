@@ -8,8 +8,6 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-
-
 If you're familiar with gaming tournaments you've probably heard of Fnatic before. They have 5 different gaming teams, and you can usually find them dominating their opponents live on Twitch. That being said, I was pretty excited to check out the latest gaming peripherals they had to offer.
 
 ## Video Review

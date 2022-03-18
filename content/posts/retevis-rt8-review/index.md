@@ -201,10 +201,6 @@ I would definitely recommend this radio, and installing the custom firmware!
 ### Availability
 [Retevis](https://www.retevis.com/)
 
-Purchase: [Amazon](https://amzn.to/3nHrCfT)
-
 ###### Disclosures
 
-As an Amazon Associate I earn a commission from qualifying purchases.
-
-Retevis provided the RT8 sample for review.The opinions expressed in my review are my own based on my experience with the product. I was not financially compensated for this review. 
+Retevis provided the RT8 sample for review. The opinions expressed in my review are my own based on my experience with the product. No one reviewed the content before it was posted, and I am not being compensated for my review.
