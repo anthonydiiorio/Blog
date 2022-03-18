@@ -8,7 +8,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-I've had the Zoom H2n for around 6 months now, and I think it's time for a review. You may not have noticed, but a lot of the videos up on my YouTube channel are recorded using this microphone before I got my [EV RE27/nd](http://www.youtube.com/watch?v=bza598PjIKw).
+I've had the Zoom H2n for around 6 months now, and I think it's time for a review. You may not have noticed, but a lot of the videos up on my YouTube channel are recorded using this microphone before I got my [EV RE27/nd](https://www.youtube.com/watch?v=bza598PjIKw).
 
 ## Features
 
@@ -21,7 +21,7 @@ One of the great features of this mic that you'll also find on most field record
 
 ## In Practice
 
-Besides using this mic for recording audio for my [YouTube](http://youtube.com/thetechzonelive) videos, I've also used it to record samples, amateur radio recodings, and some freelance video projects. When it comes time to edit you just need to align the audio tracks with scratch audio from the camera.
+Besides using this mic for recording audio for my [YouTube](https://youtube.com/thetechzonelive) videos, I've also used it to record samples, amateur radio recodings, and some freelance video projects. When it comes time to edit you just need to align the audio tracks with scratch audio from the camera.
 
 One of the things I actually dislike on the H2n is the glossy piano black finish. It gets loaded with finger prints and scratches. I just despise glossy plastic, it's almost as bad as rubberized or soft touch plastic.
 
