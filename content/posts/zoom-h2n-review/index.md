@@ -1,6 +1,7 @@
 ---
 title: "Zoom H2n Review"
 date: 2012-12-30T00:00:00-04:00
+tags: ["Audio"]
 draft: false
 cover:
     image: "h2n.jpg"

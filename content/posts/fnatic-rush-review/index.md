@@ -1,6 +1,7 @@
 ---
 title: "Fnatic Gear Rush Mechanical Keyboard Review"
 date: 2016-03-31T00:00:00-04:00
+tags: ["Keyboard","Computers"]
 draft: false
 cover:
     image: "rush-keycaps.jpg"

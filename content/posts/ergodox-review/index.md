@@ -1,6 +1,7 @@
 ---
 title: "ErgoDox Review"
 date: 2014-08-06T00:00:00-04:00
+tags: ["Keyboard","Computers"]
 draft: false
 cover:
     image: "ergodox-1-1-.jpg"
