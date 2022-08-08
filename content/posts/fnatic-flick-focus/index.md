@@ -1,6 +1,7 @@
 ---
 title: "Fnatic Flick Mouse & Focus Mouse Pad Review"
 date: 2016-03-22T00:00:00-04:00
+tags: ["Mouse","Computers"]
 draft: false
 cover:
     image: "flick-background.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "PA2V2 Headphone Amplifier Review"
 date: 2011-04-20T00:00:00-04:00
+tags: ["Audio"]
 draft: false
 cover:
     image: "pa2v2.jpg"

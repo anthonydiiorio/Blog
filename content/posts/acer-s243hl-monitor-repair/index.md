@@ -1,6 +1,7 @@
 ---
 title: "Acer S243HL Monitor Repair"
 date: 2016-09-07T00:00:00-04:00
+tags: ["Computers"]
 draft: false
 cover:
     image: "acer-header.jpg"
