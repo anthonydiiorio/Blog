@@ -67,7 +67,7 @@ After the salt is incorporated I add the olive oil. If the dough is tough at thi
 
 ![Dough balls](Pizza-7.jpg)
 
-Finally weigh and form the dough into balls in individual containers with a touch of olive oil. You can also use a proofing box if you have one. Into the fridge for a few days to cold ferment.
+Finally weigh and form dough balls and place in individual containers with a touch of olive oil. You can also use a proofing box if you have one. Into the fridge for a few days to cold ferment.
 
 ![Ready to launch](Pizza-1.jpg)
 
