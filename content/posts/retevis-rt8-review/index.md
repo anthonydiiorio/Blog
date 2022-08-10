@@ -2,6 +2,7 @@
 title: "Retevis RT8 Review"
 date: 2019-11-29T00:00:00-04:00
 draft: false
+tags: ["Radio"]
 aliases:
     - /Retevis-RT8-Review
 cover:
