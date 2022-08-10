@@ -21,7 +21,7 @@ cover:
 
 >**Makes 4 x 12" 255g dough balls**
 
-[Print PDF](pizza.pdf)
+[Print PDF 🖨️](pizza.pdf)
 
 ## Dough 🍕
 
