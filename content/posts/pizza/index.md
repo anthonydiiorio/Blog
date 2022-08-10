@@ -25,7 +25,7 @@ cover:
 
 ## Dough 🍕
 
-1. Mix the flour, water, and yeast until fully hydrated
+1. Mix the flour (All Purpose or Bread Flour), water, and yeast until fully hydrated
 2. Add the salt and mix until combined
 3. Add the olive oil
 4. Mix until the dough starts to become smooth and elastic
