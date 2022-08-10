@@ -2,6 +2,8 @@
 title: "Anthony's Pizza Dough"
 date: 2021-08-10T00:00:00-04:00
 draft: false
+description: "My foolproof pizza dough for a home oven."
+tags: ["Pizza","Food","Recipe"]
 aliases:
     - /pizza
 cover:
@@ -9,6 +11,8 @@ cover:
     alt: "The greatest pizza of all time"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
+
+After months of experimentation, I have finally published my pizza dough recipe! This foolproof dough makes delicious pizzas at home. I hope you enjoy it as much as I do!
 
 | Ingredients   | Bakers % | Grams |
 | ------------- | -------: | ----: |
@@ -38,6 +42,8 @@ Cover the bowl and rise for 2-3 hours or until doubled in size. Weigh and form d
 * Preheat the oven to its highest setting. My oven goes to 555°F.
 * **Pizza Stone**: bake for 7 minutes
 * **Aluminum Pizza Pan**: bake for 10 minutes
+
+Every oven is a little different so you'll have to experiment with the times.
 
 #### A side note 📝
 
