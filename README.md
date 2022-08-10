@@ -15,3 +15,5 @@ Build:
 ## Image Resize
 
 `magick.exe mogrify -path output/ -strip -resize 2000 -quality 82 -unsharp 0.25x0.25+8+0.065 *.jpg`
+
+`magick.exe mogrify -path output/ -strip -resize 1920 -format webp -define webp:lossless=false -quality 80 -unsharp 0.25x0.25+8+0.065 *.jpg`
