@@ -40,7 +40,7 @@ Cover the bowl and rise for 2-3 hours or until doubled in size. Weigh and form d
 ## Baking 👨‍🍳
 
 * Preheat the oven to its highest setting. My oven goes to 555°F.
-* **Pizza Stone**: bake for 7 minutes
+* **Pizza Stone**: bake for 6-7 minutes
 * **Aluminum Pizza Pan**: bake for 10 minutes
 
 Every oven is a little different so you'll have to experiment with the times.
