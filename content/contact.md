@@ -24,8 +24,8 @@ hidemeta: true
     <input type="email" name="email" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
-    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
     <input type="text" name="_gotcha" style="display:none" />
   <input type="submit" value="Submit">
   <p id="milk-status"></p>
