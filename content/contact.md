@@ -7,25 +7,30 @@ hidemeta: true
 ---
 
 {{< rawhtml >}}
-<form id="my-form" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mqkwwoog" method="post">
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<form id="milk" accept-charset="utf-8" action="https://formspree.io/f/mqkwwoog" method="post">
     <label for="full-name">Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
     <input type="email" name="email" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
+    <div class="g-recaptcha" data-sitekey="6LckhbIhAAAAAPg4s3RnZLYN-VLAIxznpCiw8rcQ"></div>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="text" name="_gotcha" style="display:none" />
   <input type="submit" value="Submit">
-  <p id="my-form-status"></p>
+  <p id="milk-status"></p>
 </form>
+
 
 <!-- Place this script at the end of the body tag -->
 <script>
-    var form = document.getElementById("my-form");
+    var form = document.getElementById("milk");
     
     async function handleSubmit(event) {
       event.preventDefault();
-      var status = document.getElementById("my-form-status");
+      var status = document.getElementById("milk");
       var data = new FormData(event.target);
       fetch(event.target.action, {
         method: form.method,
