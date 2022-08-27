@@ -7,7 +7,15 @@ hidemeta: true
 ---
 
 {{< rawhtml >}}
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+      <script src="https://www.google.com/recaptcha/api.js?render=6LckhbIhAAAAAPg4s3RnZLYN-VLAIxznpCiw8rcQ"></script>
+      <script>
+          grecaptcha.ready(function () {
+              grecaptcha.execute('6LckhbIhAAAAAPg4s3RnZLYN-VLAIxznpCiw8rcQ', {action: 'submit'}).then(function (token) {
+                  console.info("got token: " + token);
+                  document.getElementById('g-recaptcha-response').value = token;
+              });
+          });
+      </script>
 
 <form id="milk" accept-charset="utf-8" action="https://formspree.io/f/mqkwwoog" method="post">
     <label for="full-name">Name</label>
@@ -16,7 +24,7 @@ hidemeta: true
     <input type="email" name="email" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
-    <div class="g-recaptcha" data-sitekey="6LckhbIhAAAAAPg4s3RnZLYN-VLAIxznpCiw8rcQ"></div>
+    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
     <input type="text" name="_gotcha" style="display:none" />
   <input type="submit" value="Submit">
