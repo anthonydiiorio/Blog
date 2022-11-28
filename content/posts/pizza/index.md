@@ -17,13 +17,13 @@ After months of experimentation, I have finally published my pizza dough recipe!
 | Ingredients   | Bakers % | Grams |
 | ------------- | -------: | ----: |
 | Flour (AP/BR) | 100%     | 610   |
-| Water         | 62%      | 378   |
+| Water         | 60%      | 366   |
 | Yeast (IDY)   | 0.50%    | 3.1   |
 | Salt          | 2%       | 12.2  |
-| Oil           | 3%       | 18.3  |
-| Total         |          | 1022  |
+| Oil           | 2%       | 12.2  |
+| Total         |          | 1003  |
 
->**Makes 4 x 12" 255g dough balls**
+>**Makes 4 x 12" 250g dough balls**
 
 [Print PDF 🖨️](pizza.pdf)
 
@@ -40,14 +40,14 @@ Cover the bowl and rise for 2-3 hours or until doubled in size. Weigh and form d
 ## Baking 👨‍🍳
 
 * Preheat the oven to its highest setting. My oven goes to 555°F.
-* **Pizza Stone**: bake for 6-7 minutes
-* **Aluminum Pizza Pan**: bake for 10 minutes
+* **Pizza Stone**: bake for 5-6 minutes
+* **Aluminum Pizza Pan**: bake for 8-10 minutes
 
 Every oven is a little different so you'll have to experiment with the times.
 
 #### A side note 📝
 
-If you use about 500g of dough you can make a really delicious and fluffy white pizza. Just cook it a little longer until it starts to crisp up.
+If you use about 500g of dough you can make a really delicious and fluffy focaccia or a fantastic Sicilian red pizza. Just bake it a little longer.
 
 ![Focaccia](focaccia-min.jpg)
 
@@ -97,7 +97,7 @@ For a home oven I recommend bread flour (BR) or all purpose flour (AP).
 
 #### Salt
 
-Salt is necessary. It helps gluten development and slows fermentation. We want the dough to ferment slowly in the fridge. More time in fermentation equals better flavour.
+Salt helps gluten development and slows fermentation. We want the dough to ferment slowly in the fridge. More time fermenting equals better flavour and aromas. 
 
 2% is the ideal amount of salt.
 
@@ -105,11 +105,12 @@ Since salt absorbs water you need to wait until the flour is fully hydrated befo
 
 When to add the salt is debated amongst pizza makers, some dissolve the salt in the water before adding the yeast, some mix it into the flour to prevent the salt killing the yeast. I like to add it after the flour is hydrated. Sometimes if I'm in a rush I just add the salt to the flour at the beginning. The bottom line is you still get a delicious pizza 🤷‍♂️
 
-#### Sugar
-
-Sugar holds water and weakens gluten. It makes dough sticky. You don't want sugar in your dough. There are enough natural sugars in the dough as is to brown the crust.
-
 #### Oil
 
-Oil (fat) weakens gluten, reduces stickiness, and speeds up cooking for better crust. Oil should be added near the end of the mixing process. Oil should **never** be added to raw flour as it will coat the flour and inhibit water from hydrating it. 
+Oil (fat) weakens gluten, reduces stickiness, and speeds up cooking for better crust. Oil should be added near the end of the mixing process. Oil should **never** be added to raw flour as it will coat the flour and inhibit the water from hydrating it. 
 
+---
+
+### Changelog
+
+`2022-11-28:` Reduced hydration to 60% and oil to 2%. I find the dough easier too work with and less sticky. Cook time is also reduced by 1 minute.
