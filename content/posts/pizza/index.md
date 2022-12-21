@@ -29,13 +29,12 @@ After months of experimentation, I have finally published my pizza dough recipe!
 
 ## Dough 🍕
 
-1. Mix the flour (All Purpose or Bread Flour), water, and yeast until fully hydrated
-2. Add the salt and mix until combined
-3. Add the olive oil
-4. Mix until the dough starts to become smooth and elastic
-5. If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing.
+1. Mix the flour, water, salt, and yeast until it forms into a dough ball
+2. Add the olive oil near end end of the mixing process
+3. Mix until the dough starts to become smooth and elastic
+4. If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing until smooth.
 
-Cover the bowl and rise for 2-3 hours or until doubled in size. Weigh and form dough balls. Store in oiled, individual containers or in a proofing box. Refrigerate the dough balls for 1 to 7 days. Remove from the fridge 2-3 hours before baking.
+Cover the bowl and let the dough  rise for 2-3 hours or until doubled in size. Weigh and form dough balls. Store in oiled, individual containers or in a proofing box. Refrigerate the dough balls for 1 to 7 days. Remove from the fridge 2-3 hours before baking.
 
 ## Baking 👨‍🍳
 
@@ -55,21 +54,17 @@ If you use about 500g of dough you can make a really delicious and fluffy focacc
 
 ![Always use a scale!](Pizza-3.jpg)
 
-I start with measuring the water, adding the yeast, and finally the bread flour.
+I start by measuring the water, yeast, flour and salt.
 
-Always use a scale, if you see a recipe with measuring cups throw it in the trash! 
+Always use a scale, if you see a pizza or bread recipe with measuring cups and spoons throw it in the trash!
  
 ![Mixing](Pizza-4.jpg)
 
 Mixing the water, yeast and flour.
 
-![Flour fully hydrated](Pizza-5.jpg)
-
-This is when I add the salt. You can see the flour is fully hydrated.
-
 ![A touch of olive oil](Pizza-6.jpg)
 
-After the salt is incorporated I add the olive oil. If the dough is tough at this stage I stop mixing and let the gluten relax for 5-10 minutes.
+Add the olive oil near the end of the mixing process. If the dough is tough at this stage I stop mixing and let the gluten relax for 5-10 minutes.
 
 ![Dough balls](Pizza-7.jpg)
 
@@ -81,7 +76,7 @@ My assembled pizza on the peel ready to launch. Be generous with the flour on th
 
 ![Pizza](Pizza-2.jpg)
 
-7 minutes later we have an excellent homemade pizza! Enjoy 😊
+6 minutes later we have an excellent homemade pizza! Enjoy 😊
 
 ---
 
@@ -101,13 +96,13 @@ Salt helps gluten development and slows fermentation. We want the dough to ferme
 
 2% is the ideal amount of salt.
 
-Since salt absorbs water you need to wait until the flour is fully hydrated before adding it to the dough.
-
-When to add the salt is debated amongst pizza makers, some dissolve the salt in the water before adding the yeast, some mix it into the flour to prevent the salt killing the yeast. I like to add it after the flour is hydrated. Sometimes if I'm in a rush I just add the salt to the flour at the beginning. The bottom line is you still get a delicious pizza 🤷‍♂️
-
 #### Oil
 
 Oil (fat) weakens gluten, reduces stickiness, and speeds up cooking for better crust. Oil should be added near the end of the mixing process. Oil should **never** be added to raw flour as it will coat the flour and inhibit the water from hydrating it. 
+
+#### Water
+
+The amount of water can vary depending on the flour. This is something you can adjust if your dough is too sticky or too dry. Higher hydration will make bigger bubbles, but at the expense of more time in the oven. Expect the crust to be crispier. Lower hydration will bake slightly faster and have a nice soft, dense, chewy texture. It's also easier to handle.
 
 ---
 
