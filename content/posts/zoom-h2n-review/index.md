@@ -1,7 +1,7 @@
 ---
 title: "Zoom H2n Review"
-date: 2012-12-30T00:00:00-04:00
-tags: ["Audio"]
+date: 2032-1-24T00:00:00-04:00
+tags: ["Audio", "Field Recording", "Review"]
 draft: false
 cover:
     image: "h2n.jpg"
@@ -9,7 +9,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-The Zoom H2n is a versatile recorder that has served me well since 2012. I've used it to make field recordings, voice overs, and even for ham radio recordings during satellite passes. 
+The Zoom H2n is a versatile recorder that has served me well since 2012. I've used it to make field recordings, voice overs, and even for ham radio to record satellite passes. 
 
 ## Review
 
@@ -24,20 +24,49 @@ The H2n can record at up to 24bit/96kHz in WAV or MP3 from the internal micropho
 
 You can monitor your audio with the headphone jack and the onboard VU meter. I try to keep my recordings peaking under -12 dB so there's some headroom available.
 
-There are some onboard DSP effects like an 80 Hz low cut filter, limiter, and compressor. I don't recommend using these because they are applied after the analog to digital converter and won't stop your signal from clipping. The clipping light still flashes, but the VU meter shows the limited level being recorded. This can make setting levels confusing and gives a false sense of security because you aren't seeing the real levels hitting the ADC.
+There are some onboard DSP effects like an 80 Hz low cut filter, limiter, and compressor. I don't recommend using these because they are applied after the analog to digital converter and won't stop your signal from clipping. The clipping light still flashes, but the VU meter shows the limited level being recorded. This can make setting levels confusing and gives a false sense of security because you aren't seeing the real levels hitting the ADC. You can edit your files later to apply these types of effects. Free software like Audacity will do the job.
 
-I also occasionally use the onboard USB audio interface which comes in extremely handy.
+I occasionally use the onboard USB audio interface feature which comes in extremely handy. I wouldn't buy another recorder without this feature. Sometimes you just need a quick audio solution, and I don't want to take apart my Audient ID14 from my desktop setup.
 
 I've had great success using this microphone to make field recordings, voice overs, ham radio recordings, digitizing analog media, and more. 
 
+### Issues
+
+The Zoom H2n is not without it's problems. My unit has a channel imbalance where the right channel is a little louder than the left. The self noise isn't the greatest either. The biggest issue is handling noise. You can forget about holding this recorder and using the internal mics. The plastic body creaks, the buttons rattle. These will ruin your recordings. It's best to have the recorder on a steady surface or a tripod. Zoom should have shock mounted the capsules better.
+
+The recorder also suffers from interference. Make sure your recorder is not near your phone and no external microphone or headphone cables are near your phone. 
+
+Example: External mic with the cable passing over my phone in my pocket:
+
+{{< rawhtml >}}
+</p><audio controls>
+  <source src="cell.opus" type="audio/ogg"  type="audio/ogg; codecs=opus" />
+</audio>
+<p>
+{{< /rawhtml >}}
+
+You will also get interference if you plug in an external mic and hold the recorder with your thumb on the screen. Yes, this is as stupid as it sounds.
+
+{{< rawhtml >}}
+</p><audio controls>
+  <source src="screen.opus" type="audio/ogg"  type="audio/ogg; codecs=opus" />
+</audio>
+<p>
+{{< /rawhtml >}}
+
+The USB SD Card Reader is very slow. Zoom is still selling this recorder in 2023 with an archaic USB 2.0 Mini-B. Ok I'll admit have a soft spot for this connector because it's not complete utter garbage like Micro USB, but come on, it's time to update this thing to USB 3.1 Type-C. And if we're going that far, please add onboard NiMH battery charging. Olympus can do this already.
+
+In 2021 after 3 years of daily use for ham radio satellite recordings I had an awful scratchy noise when I unplugged the external mic cable. I took the recorder apart, reflowed the solder on the connector and the noise went away.
+
+In 2023 the glue on the front grill got loose. I reattached the grill with hot glue.
+
 ## Conclusion
 
-Overall I've been fairly impressed with the audio from the H2n. It's been really handy for a number of projects, and it's paid itself off time and time again. If you're in the market for a small, affordable field recorder with an interesting array of microphone configurations, the H2n is an incredible value.
+I've had this recorder for 11 years at the time of writing. It's held up well. It has an interesting array of microphone options and it's a cheap way to make surround recordings. I'm not sure I would recommend it in 2023 as there are other options for small field recorders with lower noise and better build quality.
 
-## 2021 Update
-
-Holy moly I've had this thing for a while and it's held up quite well. I had one issue after repeated use of the line in port. A solder joint cracked which caused a weird distortion after unplugging an external source. It was a very easy repair, I just reflowed the solder on that connector. The H2n comes apart easily.
-
-#### Disclosures
-
-I purchased the product with my own funds. The opinions expressed in this review are my own, no one reviewed the content before it was posted, and I am not being compensated for my review.
+My wishlist for a new recorder:
+- Low noise
+- Metal enclosure
+- USB Type-C
+- Internal charging
+- 32 Bit (is it a meme idk)
