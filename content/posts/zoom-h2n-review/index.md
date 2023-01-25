@@ -13,10 +13,10 @@ The Zoom H2n is a versatile recorder that has served me well since 2012. I've us
 
 ## Review
 
-The Zoom H2n can record from it's five capsules in four modes:
+The Zoom H2n can record from it's four capsules in four modes:
 
 - XY: 90° Stereo XY pattern
-- Mid-Side: Front facing and 2ch side capsule with adjustable pattern or raw recording. (default 0dB = 120°)
+- Mid-Side: Front facing and a figure 8 side capsule with adjustable pattern or raw recording. (default 0dB = 120°)
 - 2 Channel Surround: 360 recording from the XY and MS capsules
 - 4 Channel Surround: Split files from the XY and MS capsules
 
