@@ -1,6 +1,6 @@
 ---
 title: "Zoom H2n Review"
-date: 2032-1-24T00:00:00-04:00
+date: 2023-1-24T00:00:00-04:00
 tags: ["Audio", "Field Recording", "Review"]
 draft: false
 cover:
