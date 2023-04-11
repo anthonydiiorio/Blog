@@ -41,6 +41,8 @@ The information display in the gauge cluster is clear and I like using the digit
 
 The cabin could have better sound isolation from road noise.
 
+![](dash.jpg)
+
 ## Design
 
 I like the compact size of the Corolla. Ingress and egress were not a problem in the front, but you need to be careful not to hit your head getting in the back. Taller people will probably hit the ceiling. No tall people were available for testing. The missing sunroof removes a point of failure so that gets a thumbs up.
