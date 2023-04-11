@@ -29,7 +29,7 @@ I am thankful Toyota stuck with real buttons!
 
 ## Driving Impressions
 
-The Toyota Corolla rides exceptionally well for an entry level car. The seats are comfortable. It rolls over bumps without upsetting the car. The soft suspension makes for a smooth ride. This is an excellent choice for commuting in a city like Montreal filled with potholes. 
+The Toyota Corolla rides exceptionally well for an entry level car. The seats are comfortable. It rolls over bumps without upsetting the car. The soft suspension makes for a smooth ride. This is an excellent choice for commuting in a city filled with potholes like Montreal. 
 
 The steering wheel is very light and doesn't give much feedback.
 
