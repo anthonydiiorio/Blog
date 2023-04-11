@@ -1,6 +1,6 @@
 ---
 title: "Anthony's Pizza Dough"
-date: 2021-08-10T00:00:00-04:00
+date: 2022-08-10T00:00:00-04:00
 draft: false
 description: "My foolproof pizza dough for a home oven."
 tags: ["Pizza","Food","Recipe"]
