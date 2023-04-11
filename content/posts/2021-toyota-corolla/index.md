@@ -33,7 +33,7 @@ The Toyota Corolla rides exceptionally well for an entry level car. The seats ar
 
 The steering wheel is very light and doesn't give much feedback.
 
-The 139 horsepower, 1.8 liter NPC engine is smooth. It's not fast by any means, but adequate for commuting. It's not a race car. I think they increased the power output on the new model.
+The 139 horsepower, 1.8 liter NPC engine is smooth. It's not fast by any means, but adequate for commuting. It's not a sports car. I think they increased the power output on the new model.
 
 Visibility is good. The rear view camera has the same quality as a 2000s camcorder.
 
