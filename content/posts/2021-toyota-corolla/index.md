@@ -15,7 +15,7 @@ This is mostly for my own notes.
 
 ## Audio / Infotainment
 
-The base model 6 speaker system is not great. You get door speakers plus windshield firing tweeters in the front, and only door speakers in the rear. The front left tweeter was not working so I can't commend on soundstage. Stock tuning is bad. It has poor bass extension and sounds bloated. At higher volumes it distorts badly with rattling plastic noises. Highs are recessed and lack detail, with vocals taking the back seat. It was somewhat "acceptable" with +1 Treble to bring back the highs and -1 Bass to tame the boosted low end. I should get a calibration microphone to test this stuff... It's clear Toyota did not tune the audio system for audiophiles.
+The base model 6 speaker system is not great. You get door speakers plus windshield firing tweeters in the front, and two rear speakers. The front left tweeter was not working so I can't commend on soundstage. Stock tuning is bad. It has poor bass extension and sounds bloated. At higher volumes it distorts badly with rattling plastic noises. Highs are recessed and lack detail, with vocals taking the back seat. It was somewhat "acceptable" with +1 Treble to bring back the highs and -1 Bass to tame the boosted low end. I should get a calibration microphone to test this stuff... It's clear Toyota did not tune the audio system for audiophiles.
 
 Why don't they use DSP calibration to address this? At least give us a parametric EQ so we can do it ourselves with REW. Other work needs to be done to add rigidity and sound deadening to the door panels to reduce bass distortion. A dedicated subwoofer would relieve the door speakers to focus on the mid range. 
 
