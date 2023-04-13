@@ -9,7 +9,7 @@ cover:
     relative: true
 ---
 
-First make sure your locale is set so the expected paper size is selected. The United States and Canada use Legal/Letter size. If you don't set your locale, it will default to A4 size.
+First, make sure your locale is set so the expected paper size is selected. The United States and Canada use Legal/Letter size. If you don't set your locale, it will default to A4 size.
 
 ``` bash
 sudo dpkg-reconfigure locales
