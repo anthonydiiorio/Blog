@@ -60,7 +60,7 @@ Done! The printer should now show up in AirPrint and the Android Default Print S
 
 ### Troubleshooting Paper Size
 
-If you try printing on an iOS or Android device and Letter Paper is missing try the following steps:
+If you try printing on an iOS or Android device and Letter Paper is missing, try the following steps:
 
 ``` bash
 # Set /etc/papersize to "letter"
