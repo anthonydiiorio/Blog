@@ -13,8 +13,10 @@ First, make sure your locale is set so the expected paper size is selected. The 
 
 ``` bash
 sudo dpkg-reconfigure locales
+# Set to "en_CA.UTF-8" or "en_US.UTF-8"
 
 # Verify the locale is set
+# You will need to logout and login for this to apply
 locale
 
 # Expected output:
@@ -28,9 +30,9 @@ Next,
 - Restart CUPS
 
 ``` bash
-sudo apt install cups avahi-daemon printer-driver-brlaser 
+sudo apt install cups avahi-daemon libnss-mdns printer-driver-brlaser 
 sudo usermod -a -G lpadmin username
-sudo cupsctl --remote-admin --share-printers
+sudo cupsctl --remote-any --remote-admin --share-printers
 sudo service cups restart
 ```
 
