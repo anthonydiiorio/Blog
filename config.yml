@@ -4,6 +4,9 @@ title: Anthony Di Iorio
 paginate: 10
 theme: PaperMod
 
+# Update sitemap with git dates
+enableGitInfo: true
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
