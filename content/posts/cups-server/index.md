@@ -3,6 +3,7 @@ title: "How to Add AirPrint to a Brother Printer With CUPS"
 date: 2023-04-12T00:00:00-04:00
 draft: false
 tags: ["Printer","AirPrint","Brother","HL-2270DW"]
+description: "Learn how to install a CUPS print server, add support for your older Brother Laser Printer, and setup Avahi mDNS for Apple AirPrint and IPP Everywhere."
 cover:
     image: "cups.png"
     alt: "CUPS Config"
