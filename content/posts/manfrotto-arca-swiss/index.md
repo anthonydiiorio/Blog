@@ -21,16 +21,16 @@ For the clamp I wanted something that looks nice and wouldn't look out of place.
 
 I'm really happy with the clamp. I'm certainly interested in trying some of their other gear.
 
-![](IMG_3645.jpg)
+![Stock Manfrotto 501PL Clamp](IMG_3645.jpg)
 *Stock Manfrotto 501PL Clamp*
 
-![](IMG_3653.jpg)
+![Leofoto LHC-60 with the iShoot adapter](IMG_3653.jpg)
 *Leofoto LHC-60 with the iShoot adapter*
 
-![](IMG_3661.jpg)
+![The iShoot adapter on my Manfrotto ball head](IMG_3661.jpg)
 *The iShoot adapter on my Manfrotto ball head*
 
-![](IMG_3684.jpg)
+![Leofoto LHC-60 Quick Release Plate Installed](IMG_3684.jpg)
 
 Looks pretty nice doesn't it.
 

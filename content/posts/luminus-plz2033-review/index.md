@@ -29,7 +29,7 @@ The bulb case is made of cheap plastic, which is not a good heatsink. This desig
 
 The lens has many small elements that disperse the light in a nice diffused pattern with no hotspots. There is one big COB led in the middle which eliminates any shadows present on other LED bulbs that have multiple chips.
 
-![](IMG_4649.jpg)
+![GU10 Light Bulb](IMG_4649.jpg)
 
 ## Efficiency
 
@@ -72,12 +72,12 @@ My Canon T2i running Magic Lantern's Auto Adjust Kelvin feature measured 3000K o
 
 **Custom White Balance set to new light as reference**
 
-![](Luminus-Reference.jpg)
+![Reference vs Custom White Balance](Luminus-Reference.jpg)
 
 The visible shift towards the cooler temperature is obvious if I set a reference custom white balance with the new bulb and compare it to the old bulb. You can also see the old bulb is darker.
 
 **Custom White Balance set for each capture**
-![](Luminus-CustomWB.jpg)
+![Custom White Balance](Luminus-CustomWB.jpg)
 Here I set a custom white balance under each bulb so I could see if there were any major color errors. It seems to match pretty good so I'm pretty sure just the color temperature shifted. It's not a perfect match but pretty close. Exposure levels were matched in post.
 
 ## Failure

@@ -21,7 +21,7 @@ If you're familiar with gaming tournaments you've probably heard of Fnatic befor
 
 The Flick is a no nonsense gaming mouse, with a clean design, comfortable layout, and features the flawless Pixart 3310 optical sensor. 
 
-![](flick-side.jpg)
+![Mouse side profile](flick-side.jpg)
 
 ### Specs
 - MCU/Processor: Holtek HT68FB560
@@ -48,20 +48,20 @@ As a Counter Strike player, I can definitely attest to the fact that a flawless 
 The Flick's software is very clean and easy to navigate. The mouse has the ability to store 3 separate profiles, each with basic settings, button assignments, color settings, and macros. If you're reinstalling your OS or switching PCs, you also have the option to backup and restore your settings.
 
 #### Basic Settings
-![](02lz03P.png)
+![Settings](02lz03P.png)
 Basic settings allow you to set the CPI from 50 to 5000 in 50 CPI increments. You can also set 3 CPI levels which can be cycled through on the mouse if you have a button assigned to do so. Here you can also set up sensitivity, scroll speed, scroll by page, double click speed, and polling rate. Unfortunately at the time of this review you cannot adjust lift off distance, but hopefully this can be solved with a firmware update in the future.
 
 #### Button Assignments
-![](L2mN1to.png)
+![Button Assignments](L2mN1to.png)
 
 The Flick includes 8 programmable buttons including the scroll wheel. Here you can assign any button to do pretty much anything. I personally use one button to trigger my push-to-talk and another to play/pause my music. Of course, you can also set a button to perform a macro, and disable a button entirely.
 
 #### Color Settings
-![](U2nj7yV.png)
+![Color Settings](U2nj7yV.png)
 The Flick features a RGB LED under the scroll wheel which can be controlled in the Color Settings tab. You can choose to have the LED on or off, cycle through every color, or set  it to a single color with the option to have it pulsate, heartbeat, blink, fade in, or fade out. I found the mouse gives off a soft glow that isn't distracting, and fades smoothly without any noticeable stepping.
 
 #### Macro Recorder
-![](m2ot2hB.png)
+![Macro Recorder](m2ot2hB.png)
 The macro recorder is very easy to use. Simply click on the record button, and use your mouse and keyboard to set the macro. Press record again to stop, and give it a name. Your macros will now appear in the button assignments menu.
 
 ### Conclusion
@@ -69,11 +69,11 @@ The Flick is a pretty nice mouse overall, but it could be better. I would like t
 
 ## Focus Mouse Mad Review
 
-![](focus1.jpg)
+![Mouse pad](focus1.jpg)
 
 The Fnatic Focus is a soft mouse pad with a 3mm non-slip rubber grip. The Focus is an incredibly smooth mouse pad. I couldn't feel any feedback from the mouse pad at all compared to my Mionix Sargas 900 which is a bit rough. The mouse just glides effortlessly across the mouse pad. Wrist comfort is also excellent with this mouse pad. The 3mm rubber layer provides a soft area for your wrists to rest on.
 
-![](focus2.jpg)
+![Mouse pad close up](focus2.jpg)
 
 Gaming with the Focus was great too. The surface tracked great with both laser and optical mice. I tested it with my Logitech G700 which has an ADNS 9500 Laser Sensor, and the Fnatic Flick which has a Pixart 3310 Optical Sensor. Tracking was smooth and provided a very nice surface to make small adjustments on. While testing with fast flicks, the mouse pad stayed in place and did not warp at all.
 

@@ -32,7 +32,7 @@ The RT8 has a solid plastic case with a nice finish. The radio is rated IP67 for
 
 Included with the radio is a 2200 mAh battery, programming cable, desktop charger, belt clip, and an earpiece with a lock. The speaker mic connector is a Kenwood style.
 
-![](stuff.jpg)
+![Unboxing](stuff.jpg)
 
 The radio also comes with two antennas. A short rubber duck, and a longer whip antenna. The radio has an SMA female connector, the antennas have SMA male connectors. Below are their measurements from a NanoVNA-H.
 
@@ -45,7 +45,7 @@ The radio also comes with two antennas. A short rubber duck, and a longer whip a
 | 450.000 MHz | -8.00 dB  | 2.32 |  
 
 
-![](AntDuck-min.png)
+![Rubber Duck SWR Sweep](AntDuck-min.png)
 
 ### Whip 13.5"
 
@@ -55,7 +55,7 @@ The radio also comes with two antennas. A short rubber duck, and a longer whip a
 | 446.100 MHz | -9.81 dB  | 1.96 |
 | 450.000 MHz | -8.04 dB  | 2.31 |
 
-![](AntWhip-min.png)
+![UHF Whip Antenna SWR Sweep](AntWhip-min.png)
 
 Both antennas are decent. About what you would expect from an HT antenna. The included whip resonates in the 70cm amateur band, so it would be the antenna to use in my opinion. And it will be much more efficient compared to the coiled up rubber duck antenna.
 
@@ -84,30 +84,30 @@ Programming a DMR radio is a little different than plain old analog FM. There ar
 
 First open **General Settings** to enter your DMR Radio ID, and callsign. You will also need to set TX Preamble Duration to 960 ms. On this page you can also change from the default splash screen to a custom text display.
 
-![](general.png)
+![General Settings](general.png)
 
 Next we'll find a repeater to connect to. There are multiple networks on DMR, Brandmeister, DMRPlus, and DMR-MARC. You can find a map/list of DMR repeaters here: [CQ DMR Map](http://cqdmrmap.com/), [DMR-MARC](https://dmr-marc.net/repeaters.html), [Brandmeister](https://brandmeister.network/?page=repeaters)
 
 In this example, I found a local DMR-MARC repeater nearby on Mount-Royal. Since DMR-MARC repeaters are limited to the talkgroups set up by the repeater owner, programming is pretty straightforward. In this case, the repeater owner has listed all the available talkgroups, organized by timeslot. If not, you might try looking for a local DMR group website that lists available talkgroups in your area.
 
-![](DMRMARC.png)
+![DMR-MARC Map](DMRMARC.png)
 
 Next, add the available talkgroups to your **Digital Contacts** list.
 
 Click **Add**, then fill in the **Contact Name**, and **Call ID** (TG). Make sure **Call Type** is set to **Group Call**. Private Calls are only used for repeater commands such as linking reflectors, status checks, or private calls to other users.
 
-![](Groups-min.png)
+![Talkgroups](Groups-min.png)
 
 Next, create an **RX Group List** for each time slot, and add the appropriate talkgroups. This will allow you to hear active talkgroups. As an alternative, my preferred way to do this is using the md380tools custom firmware with promiscuous mode enabled. This saves lots of time programming and enables other useful features. 
 
 _([See section on custom firmware](#custom-firmware))_
 
-![](RXGroups-min.png)
+![Receive Groups](RXGroups-min.png)
 
 
 Now we can start creating channels! Right-click Channel Information and click Add. 
 
-![](CHAdd-min.png)
+![Channel Add](CHAdd-min.png)
 
 Set the following:
 
@@ -124,13 +124,13 @@ Set the following:
 | **Color Code** | As described on repeater listing |
 | **Repeater Slot** | Time Slot 1 or 2 |
 
-![](RCM-min.png)
+![Channel Settings](RCM-min.png)
 
 Repeat this for all the talkgroups you want.
 
 Next, create a Zone for the repeater and add the channels in. I like to create a Zone for each Time Slot, or you can create a Zone 1 with commonly used talkgroups, and another for the rest. A Zone can only hold 16 channels.
 
-![](Zones-min.png)
+![Zone Settings](Zones-min.png)
 
 If you want to enable scanning, create a Scan List, add the channels you wish to scan, and then select the Scan List when editing a channel. You can also add analog channels to a Scan List.
 
@@ -146,22 +146,22 @@ Regular talkgroups are used on Time Slot 1, Local/Reflector is used on Time Slot
 
 Analog channels are programmed similarly. Just set the Channel Mode to Analog, Bandwidth to 25khz, TX/RX frequency, and enter the CTCSS info at the bottom.
 
-![](Analog-min.png)
+![Analog FM Settings](Analog-min.png)
 
 ## GPS to APRS
 Beaconing to APRS over Brandmeister is very easy. Add a digital contact for the APRS gateway, **310999** for USA servers, or **302999** for Canada. See the [Brandmeister Wiki](https://wiki.brandmeister.network/index.php/United_States_of_America) for other countries.
 
 The **Call Type** must be set to **Private Call**.
 
-![](GPSContact-min.png)
+![GPS Settings](GPSContact-min.png)
 
 Next, go to **GPS System** in the sidebar, set the **GPS Report Interval**, and **Destination ID** to the APRS gateway for your country's master server.
 
-![](GPSSys-min.png)
+![GPS System](GPSSys-min.png)
 
 To enable beaconing, edit a channel to set the **GPS System** to the one you configured earlier. There is no need to enable Send GPS Info or Receive GPS Info. These settings will only send your GPS info to the talkgroup/contact you have selected. It does not forward GPS to the APRS gateway contact if you have a different contact/talkgroup selected. Keep this off to prevent unnecessary GPS transmissions after you unkey. 
 
-![](BMAPRS-min.png)
+![Brandmeister APRS](BMAPRS-min.png)
 
 You can enable or disable beaconing on the radio on any channel in the settings.
 
@@ -173,13 +173,13 @@ Navigate to [Brandmeister: SelfCare](https://brandmeister.network/?page=selfcare
 
 Set your radio **Brand** to Chinese Radio, **APRS interval** to 60 sec, **APRS Callsign** to your [APRS SSID](http://www.aprs.org/aprs11/SSIDs.txt), and set **APRS Text** to your APRS Message. The APRS Text will also be used for Talker Alias on compatible radios.
 
-![](selfcare-min.png)
+![Brandmeister SelfCare](selfcare-min.png)
 
 ### APRS.fi
 
 Once your radio locks to GPS and you're on a channel with a GPS System enabled, your APRS packets should start showing up on [APRS.fi](https://aprs.fi/)
 
-![](aprs-min.png)
+![APRS ](aprs-min.png)
 
 ## Custom Firmware
 
@@ -189,7 +189,7 @@ My favorite features are the caller ID database for all registered users and pro
 
 My preferred method of installation is KD4Z’s excellent Virtual Machine installer. It takes care of compiling the latest version, adding in some tweaks, and building a contact list. 
 
-![](VM-min.png)
+![md380tools virtual machine](VM-min.png)
 
 [GitHub: travisgoodspeed/md380tools](https://github.com/travisgoodspeed/md380tools)
 

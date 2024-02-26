@@ -43,23 +43,23 @@ Navigate to `https://server-ip:631/admin`
 
 Click `Add Printer` and select your printer from the list or configure it manually.
 
-![](conf1.png)
+![Add Printer](conf1.png)
 
 Enable `Share This Printer`
 
-![](conf2.png)
+![Share this printer](conf2.png)
 
 Select the driver.
 
-![](conf3.png)
+![Driver Selection](conf3.png)
 
 Set the printer options.
 
-![](conf-defaults.png)
+![Default options](conf-defaults.png)
 
 Done! The printer should now show up in AirPrint and the Android Default Print Service.
 
-![](android.png)
+![Android print menu showing the printer running on the CUPS server](android.png)
 
 ### Troubleshooting Paper Size
 

@@ -23,7 +23,7 @@ I am curious to hear the JBL sound system available on the XSE trim.
 
 The infotainment is responsive and easy to use. Android Auto setup was a breeze. The interface is snappy, multi-touch works fine. Audio quality over USB is better than Bluetooth. Screen quality could be better, the main issue is the display has a 5mm gap behind the digitizer, and the anti-glare finish adds softness. You can see some blooming around high contrast areas like a white button on a black background for example.
 
-![](infotainment-maps.jpg)
+![Infotainment Google Maps](infotainment-maps.jpg)
 
 I am thankful Toyota stuck with real buttons!
 
@@ -41,7 +41,7 @@ The information display in the gauge cluster is clear and I like using the digit
 
 The cabin could have better sound isolation from road noise.
 
-![](dash.jpg)
+![Dashboard](dash.jpg)
 
 ## Design
 
@@ -51,7 +51,7 @@ I am not a fan of the piano black gloss plastic in the interior.
 
 The Toyota Corolla looks like a Logitech gaming mouse, and nobody can tell me otherwise.
 
-![](gpxw.jpg)
+![It looks like a logitech gaming mouse](gpxw.jpg)
 
 ## Conclusion
 

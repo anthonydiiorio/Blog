@@ -75,7 +75,7 @@ Well this depends mostly on how well the kit is put together, but by design it's
 
 The keys are blank so you can make any layout you want in the layout editor. Since the layout is stored on the keyboard's microcontroller, you can even program an alternative layout such as Dvorak or Colemak and it'll work on any computer you plug the keyboard into without messing with operating system settings. This is good if you carry the keyboard with you and use it on school computers or at your workplace. 
 
-![](https://f001.backblazeb2.com/file/thetechzonelive/2016/ergodox-editor-1-.jpg)
+![Keyboard Editor](https://f001.backblazeb2.com/file/thetechzonelive/2016/ergodox-editor-1-.jpg)
 Source: [Massdrop ErgoDox Editor](https://www.massdrop.com/ext/ergodox)
 
 You may have noticed that the ErgoDox doesn't exactly have as many keys as other keyboards. This is to keep the keyboard compact. To compensate for the lack of keys, the keyboard makes use of "layers" to add function keys, a numpad, and whatever else you'd like to include in the layers. I found Massdrop's layout editor easy to use, but if you want to avoid it all together, you can download the source code and program the layout manually.
@@ -88,6 +88,6 @@ One issue with the stock layout is that you can't game because the Space key is 
 I really like this keyboard.
 
 ### Photos
-![](ergodox-1-1-.jpg)
-![](ergodox-2-1-.jpg)
-![](ergodox-3-1-.jpg)
+![Ergodox Left](ergodox-1-1-.jpg)
+![Ergodox Back](ergodox-2-1-.jpg)
+![Ergodox Controller](ergodox-3-1-.jpg)
