@@ -130,23 +130,11 @@ outputs:
 
 menu:
   main:
-    #- identifier: Ham Radio
-    #  name: Ham Radio
-    #  url: 'https://ve2hew.com'
-    #  weight: 10
-    #- identifier: Twitter
-    #  name: Twitter
-    #  url: 'https://twitter.com/ve2hew'
-    #  weight: 20
-    #- identifier: YouTube
-    #  name: YouTube
-    #  url: 'https://youtube.com/anthonydiiorio'
-    #  weight: 30
     - identifier: Search
       name: Search
       url: /search
-      weight: 20
+      weight: 10
     - identifier: Contact
       name: Contact
       url: /contact
-      weight: 40
+      weight: 20
