@@ -9,7 +9,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-If you're familiar with gaming tournaments you've probably heard of Fnatic before. They have 5 different gaming teams, and you can usually find them dominating their opponents live on Twitch. That being said, I was pretty excited to check out the latest gaming peripherals they had to offer.
+The following is a review of the Fnatic Flick Gaming Mouse and the Focus Mouse Pad.
 
 ## Video Review
 
@@ -19,14 +19,14 @@ If you're familiar with gaming tournaments you've probably heard of Fnatic befor
 
 ## FLICK Optical Gaming Mouse Review
 
-The Flick is a no nonsense gaming mouse, with a clean design, comfortable layout, and features the flawless Pixart 3310 optical sensor. 
+The Flick is a no nonsense gaming mouse, with a clean design, comfortable layout, and features a 3310 sensor. 
 
 ![Mouse side profile](flick-side.jpg)
 
 ### Specs
 - MCU/Processor: Holtek HT68FB560
 - Main switches: Omron
-- Sensor: ADNS 3310
+- Sensor: 3310
 - Memory: 256 kB
 - Resolution: 5000 CPI
 - Frames per second: 6500
@@ -37,12 +37,13 @@ The Flick is a no nonsense gaming mouse, with a clean design, comfortable layout
 - Weight: 90g
 
 ### Comfort
-The Flick is a very comfortable mouse. It features a soft touch finish that is easy to grip on to, and easy to clean. The mouse is also lightweight, coming in at only 90g. I found this weight to be comfortable for long hours of gaming and it didn't put any strain on my wrists. The mouse also has a drag reduction cable which comes out of the mouse at 30 degrees to prevent the cable from rubbing on your mouse pad. I found it held up to this claim very well, but I did notice the cable is very stiff. The mouse would could definitely be improved with a softer cable. The feet are very smooth and glide well on my Mionix mouse pad and the Focus mouse pad that I will be discussing later in this review.
+
+The Flick is a comfortable mouse. It features a soft touch finish that is easy to grip on to but will not last as long as a standard coating. The mouse is quite heavy, weighing in at 90g. The cable is very stiff, I don't like it. The mouse would could definitely be improved with a softer cable. The feet are very smooth and glide well on my mouse pad.
 
 Button placement on the mouse is also very good. I did not find myself accidentally pressing any of the side buttons or the profile switcher while using the mouse. Unfortunately the mouse does have one critical flaw with the scroll wheel. I found when scrolling up, I would press the middle mouse button by accident about 75% of the time. This could be fixed if the button was harder to press and by lowering the force required to scroll.
 
 ### Gaming and Sensor
-As a Counter Strike player, I can definitely attest to the fact that a flawless sensor with no acceleration is necessary to play the game. The mouse should also perform under high acceleration with predictable results every time. The Flick uses the very popular Pixart 3310 which is a highly regarded sensor in the gaming community. I used this mouse to play Operation Wildfire in Counter Strike: Global Offensive, and I was very happy with the results. The sensor is accurate, and very confidence inspiring.
+As a Counter Strike player, I can definitely attest to the fact that a flawless sensor with no acceleration is necessary to play the game. The mouse should also perform under high acceleration with predictable results every time. The Flick uses the Pixart 3310 which is a highly regarded sensor in the gaming community. I used this mouse to play Operation Wildfire in Counter Strike: Global Offensive, and I was very happy with the results. The sensor is accurate, and confidence inspiring.
 
 ### Software
 The Flick's software is very clean and easy to navigate. The mouse has the ability to store 3 separate profiles, each with basic settings, button assignments, color settings, and macros. If you're reinstalling your OS or switching PCs, you also have the option to backup and restore your settings.
@@ -65,7 +66,8 @@ The Flick features a RGB LED under the scroll wheel which can be controlled in t
 The macro recorder is very easy to use. Simply click on the record button, and use your mouse and keyboard to set the macro. Press record again to stop, and give it a name. Your macros will now appear in the button assignments menu.
 
 ### Conclusion
-The Flick is a pretty nice mouse overall, but it could be better. I would like to see a better scroll wheel without the miss-click issue, and I would also like the ability to adjust liftoff distance in the software. With these tweaks, the mouse would be perfect. It's lightweight, comfortable, has great software, and a flawless sensor. Hopefully we can see an updated version in the near future!
+
+I do not recommend the Fnatic Flick. It's too heavy, the cable is too stiff, the scroll wheel is defective, I do not like the soft touch coating, and the shape is not as comfortable as other mice I have tried.
 
 ## Focus Mouse Mad Review
 
@@ -86,7 +88,8 @@ The Focus is available in 5 sizes:
 - Desktop: 950 x 450 x 3mm
 
 ### Conclusion
-The Focus is a fantastic mouse pad. It's comfortable, tracks great, and is silky smooth. I can definitely recommend this product!
+
+The Focus is a good mouse pad. It's comfortable, tracks great, and is silky smooth. I can definitely recommend this one!
 
 ### Availability
 
