@@ -1,5 +1,5 @@
 ---
-title: "Retevis RT8 Review"
+title: "Retevis RT8 Review and Programming Guide"
 date: 2019-11-29T00:00:00-04:00
 draft: false
 tags: ["Radio"]
