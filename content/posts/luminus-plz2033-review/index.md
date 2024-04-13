@@ -92,7 +92,7 @@ These lights are not clearly not designed for daily operation such as a work fro
 This light suffers from a weird bug where it stays lit at a very low level while switched off. Steve Mould and ElectroBOOM have interesting videos about this phenomenon. It's the first time I've seen this problem in person.
 
 {{< youtube 1uEmX5XClPY >}}
-
+\
 {{< youtube _bgUy6zA0ts >}}
 
 ## Conclusion
