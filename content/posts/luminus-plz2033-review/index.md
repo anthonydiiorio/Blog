@@ -1,6 +1,6 @@
 ---
 title: "Luminus Elite PLZ2033 LED Bulb Review"
-date: 2023-06-25T00:00:00-04:00
+date: 2024-04-13T00:00:00-04:00
 #description: "Not great"
 tags: ["LED", "Lighting"]
 cover:
