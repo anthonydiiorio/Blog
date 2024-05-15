@@ -15,8 +15,9 @@ hidemeta: true
     <input type="email" name="email" id="email-address" placeholder="email@example.com" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-    <input type="text" name="_gotcha" tabindex="-1" class="whole-milk" />
+    <input type="hidden" name="_feedback.dark" value="true" />
+    <input type="hidden" name="_feedback.success.title" value="Message sent!"/>
+    <input type="text" name="_cheese" tabindex="-1" autocomplete="off" class="whole-milk" />
     <div class="cf-turnstile" data-sitekey="0x4AAAAAAAaPqMoRrPEYPeCr"></div>
     <button type="submit">Send</button>
 </form>
