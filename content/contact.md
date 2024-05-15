@@ -19,14 +19,14 @@ hidemeta: true
 
 <form id="milk" accept-charset="utf-8" action="https://formspree.io/f/mqkwwoog" method="post">
     <label for="full-name">Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <input type="text" name="name" id="full-name" placeholder="Name" required="">
     <label for="email-address">Email Address</label>
-    <input type="email" name="email" id="email-address" placeholder="email@domain.tld" required="">
+    <input type="email" name="email" id="email-address" placeholder="email@example.com" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
     <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
-    <input type="text" name="_gotcha" style="display:none" />
+    <input type="text" name="_gotcha" tabindex="-1" class="whole-milk" />
   <input type="submit" value="Submit">
   <p id="milk-status"></p>
 </form>
