@@ -14,23 +14,55 @@ cover:
 
 After months of experimentation, I have finally published my pizza dough recipe! This foolproof dough makes delicious pizzas at home. I hope you enjoy it as much as I do!
 
+## Pizza Dough Calculator
+
 | Ingredients   | Bakers % | Grams |
 | ------------- | -------: | ----: |
-| Flour (AP/BR) | 100%     | 610   |
-| Water         | 60%      | 366   |
-| Yeast (IDY)   | 0.50%    | 3.1   |
-| Salt          | 2%       | 12.2  |
-| Oil           | 2%       | 12.2  |
-| Total         |          | 1003  |
+| Flour (AP/Bread) | 100%  | {{< rawhtml >}}<span id="flour">608</span>{{< /rawhtml >}} |
+| Water         | 60%      | {{< rawhtml >}}<span id="water">365</span>{{< /rawhtml >}} |
+| Yeast (IDY)   | 0.50%    | {{< rawhtml >}}<span id="yeast">3</span>{{< /rawhtml >}} |
+| Salt          | 2%       | {{< rawhtml >}}<span id="salt">12</span>{{< /rawhtml >}} |
+| Oil           | 2%       | {{< rawhtml >}}<span id="oil">12</span>{{< /rawhtml >}} |
+| Total         |          | {{< rawhtml >}}<span id="total">1000</span>{{< /rawhtml >}} |
 
->**Makes 4 x 12" 250g dough balls**
+{{< rawhtml >}}
+    <label for="numBalls" style="padding-right: 0.2em;">Number of Dough Balls:</label>
+    <input type="number" id="numBalls" value="4" min="1" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
+{{< /rawhtml >}}
+
+**Makes {{< rawhtml >}}<span id="doughBalls">4</span>{{< /rawhtml >}} x 12" 250g dough balls**
+
+{{< rawhtml >}}
+       <script>
+        function calculateIngredients() {
+            const numBalls = document.getElementById('numBalls').value;
+            const doughWeight = 250; // Weight of each dough ball in grams
+            const totalDoughWeight = numBalls * doughWeight;
+            const flour = totalDoughWeight / (1 + 0.60 + 0.005 + 0.02 + 0.02);
+            const water = flour * 0.60;
+            const yeast = flour * 0.005;
+            const salt = flour * 0.02;
+            const oil = flour * 0.02;
+            const totalWeight = flour + water + yeast + salt + oil;
+            document.getElementById('flour').textContent = Math.round(flour);
+            document.getElementById('water').textContent = Math.round(water);
+            document.getElementById('yeast').textContent = Math.round(yeast);
+            document.getElementById('salt').textContent = Math.round(salt);
+            document.getElementById('oil').textContent = Math.round(oil);
+            document.getElementById('total').textContent = Math.round(totalWeight);
+            document.getElementById('doughBalls').textContent = numBalls;
+        }
+        // Initial calculation
+        calculateIngredients();
+    </script>
+{{< /rawhtml >}}
 
 [Print PDF 🖨️](pizza.pdf)
 
 ## Dough 🍕
 
 1. Mix the flour, water, salt, and yeast until it forms into a dough ball
-2. Add the olive oil near end end of the mixing process
+2. Add the olive oil after the flour is fully hydrated
 3. Mix until the dough starts to become smooth and elastic
 4. If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing until smooth.
 
@@ -39,10 +71,7 @@ Cover the bowl and let the dough  rise for 2-3 hours or until doubled in size. W
 ## Baking 👨‍🍳
 
 * Preheat the oven to its highest setting. My oven goes to 555°F.
-* **Pizza Stone**: bake for 5-6 minutes
-* **Aluminum Pizza Pan**: bake for 8-10 minutes
-
-Every oven is a little different so you'll have to experiment with the times.
+* **Pizza Stone**: bake for 5-6 minutes or until golden
 
 #### A side note 📝
 
@@ -54,9 +83,9 @@ If you use about 500g of dough you can make a really delicious and fluffy focacc
 
 ![Always use a scale!](Pizza-3.jpg)
 
-I start by measuring the water, yeast, flour and salt.
+I start by measuring the water, yeast, flour and salt. In that order.
 
-Always use a scale, if you see a pizza or bread recipe with measuring cups and spoons throw it in the trash!
+Always use a scale, if you see a pizza or bread recipe with measuring cups and spoons throw it in the trash! Using measuring cups can cause unnecessary variation and uncertainty.
  
 ![Mixing](Pizza-4.jpg)
 
@@ -64,7 +93,7 @@ Mixing the water, yeast and flour.
 
 ![A touch of olive oil](Pizza-6.jpg)
 
-Add the olive oil near the end of the mixing process. If the dough is tough at this stage I stop mixing and let the gluten relax for 5-10 minutes.
+Add the olive oil after the flour and water have been incorporated. If the dough is tough at this stage I stop mixing and let the gluten relax for 5-10 minutes.
 
 ![Dough balls](Pizza-7.jpg)
 
@@ -88,7 +117,7 @@ I use Instant Dry Yeast (IDY)
 
 #### Flour
 
-For a home oven I recommend bread flour (BR) or all purpose flour (AP).   
+For a home oven I recommend bread flour or all purpose flour (AP).   
 
 #### Salt
 
@@ -109,3 +138,5 @@ The amount of water can vary depending on the flour. This is something you can a
 ### Changelog
 
 `2022-11-28:` Reduced hydration to 60% and oil to 2%. I find the dough easier too work with and less sticky. Cook time is also reduced by 1 minute.
+
+`2024-05-16:` Added pizza dough calculator ✨

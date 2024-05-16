@@ -8,6 +8,7 @@ hidemeta: true
 
 {{< rawhtml >}}
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<div class="contact">
 <form action="https://submit-form.com/LYR7glc3k">
     <label for="full-name">Name</label>
     <input type="text" name="name" id="full-name" placeholder="Name" required="">
@@ -21,4 +22,5 @@ hidemeta: true
     <div class="cf-turnstile" data-sitekey="0x4AAAAAAAaPqMoRrPEYPeCr"></div>
     <button type="submit">Send</button>
 </form>
+</div>
 {{< /rawhtml >}}

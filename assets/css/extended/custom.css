@@ -1,5 +1,4 @@
 input, textarea {
-    width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -9,7 +8,11 @@ input, textarea {
     box-sizing: border-box;
 }
 
-button[type=submit] {
+.contact input, .contact textarea {
+    width: 100%;
+}
+
+.contact button[type=submit] {
   width: 200px;
   padding: 14px 30px;
   margin: 8px 0;
@@ -19,13 +22,8 @@ button[type=submit] {
   border-radius: 8px;
 }
 
-button[type=submit]:hover {
+.contact button[type=submit]:hover {
   background-color: #45a049;
-}
-
-#my-form-status {
-  font-weight: bold;
-  text-align: center;
 }
 
 .whole-milk {
