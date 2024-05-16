@@ -61,7 +61,7 @@ After months of experimentation, I have finally published my pizza dough recipe!
 
 ## Dough 🍕
 
-1. Mix the flour, water, salt, and yeast until it forms into a dough ball
+1. Mix the water, yeast, flour, and salt until fully incorporated
 2. Add the olive oil after the flour is fully hydrated
 3. Mix until the dough starts to become smooth and elastic
 4. If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing until smooth.
