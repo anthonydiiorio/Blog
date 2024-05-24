@@ -73,13 +73,7 @@ Cover the bowl and let the dough  rise for 2-3 hours or until doubled in size. W
 * Preheat the oven to its highest setting. My oven goes to 555°F.
 * **Pizza Stone**: bake for 5-6 minutes or until golden
 
-#### A side note 📝
-
-If you use about 500g of dough you can make a really delicious and fluffy focaccia or a fantastic Sicilian red pizza. Just bake it a little longer.
-
-![Focaccia](focaccia-min.jpg)
-
-## Photo dump
+## Photos 📷
 
 ![Always use a scale!](Pizza-3.jpg)
 
@@ -132,6 +126,13 @@ Oil (fat) weakens gluten, reduces stickiness, and speeds up cooking for better c
 #### Water
 
 The amount of water can vary depending on the flour. This is something you can adjust if your dough is too sticky or too dry. Higher hydration will make bigger bubbles, but at the expense of more time in the oven. Expect the crust to be crispier. Lower hydration will bake slightly faster and have a nice soft, dense, chewy texture. It's also easier to handle.
+
+
+### A side note 📝
+
+If you use about 500g of dough you can make a really delicious and fluffy focaccia or a fantastic Sicilian red pizza. Just bake it a little longer.
+
+![Focaccia](focaccia-min.jpg)
 
 ---
 
