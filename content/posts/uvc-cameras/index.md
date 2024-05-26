@@ -9,7 +9,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-Here is a list of UVC protocol mirrorless cameras you can use for video calls, live streaming, or recording directly to your PC with OBS. I'll try to keep this up to date as new cameras are released.
+Here is a list of UVC protocol mirrorless cameras you can use for video calls, live streaming, or recording directly to your PC with OBS. Cameras with UVC support don't need any extra software running on your computer to work, just plug and play. I'll try to keep this up to date as new cameras are released.
 
 ### Canon
 
