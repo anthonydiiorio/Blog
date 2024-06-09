@@ -19,6 +19,10 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 - Canon EOS R50 [(1080p30)](https://cam.start.canon/en/C011/manual/html/UG-09_Set-up_0230.html)
 - Canon PowerShot V10 [(1080p30)](https://cam.start.canon/en/C014/manual/html/UG-05_Set-up_0180.html)
 
+### DJI
+
+- DJI Osmo Pocket 3
+
 ### Fujifilm
 
 #### X-Processor 5 (4K60)
