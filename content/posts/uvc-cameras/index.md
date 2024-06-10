@@ -54,6 +54,15 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 - OM System OM-1 II [(720p30)](https://learnandsupport.getolympus.com/sites/default/files/media/files/2024/01/OM-1Mk2_ENU_00.pdf)
 - OM System OM-5 [(720p30)](https://learnandsupport.getolympus.com/sites/default/files/media/files/2022/10/OM-5_ENU_00.pdf)
 
+### Capture Devices with UVC
+
+#### Blackmagic
+- [Blackmagic Atem Mini](https://www.blackmagicdesign.com/products/atemmini) 1080p
+- [Blackmagic Video Assist](https://www.blackmagicdesign.com/ca/products/blackmagicvideoassist) 1080p
+
+#### Elgato
+- [Elgato Cam Link 4K](https://www.elgato.com/ca/en/p/cam-link-4k) 1080p60 / 4K30
+
 ---
 
 ### Cameras that can be used as webcams with desktop software
