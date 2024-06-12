@@ -25,7 +25,7 @@ I prefer to install Fabric, Iris, and Sodium manually as described here:
   - [PureBDCraft](https://bdcraft.net/downloads/purebdcraft-minecraft/)
 
 
-#### Server Mods
+## Server Mods
 
 The server is running Fabric 1.20.6 with the following mods:
 
