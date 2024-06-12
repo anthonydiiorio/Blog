@@ -15,7 +15,7 @@ I prefer to install Fabric, Iris, and Sodium manually as described here:
   - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
   - [Iris](https://modrinth.com/mod/iris/versions?g=1.20.6)
   - [Sodium](https://modrinth.com/mod/sodium/versions?g=1.20.6)
-  - [Xaeros Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+  - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
 ### Shaders
 
@@ -31,4 +31,6 @@ I prefer to install Fabric, Iris, and Sodium manually as described here:
 
 The server is running Fabric 1.20.6 with the following mods:
 
+- [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Lithium](https://modrinth.com/mod/lithium) Server optimization
+- [Essential Commands](https://modrinth.com/mod/essential-commands)
