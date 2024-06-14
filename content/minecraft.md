@@ -13,9 +13,10 @@ I prefer to install Fabric, Iris, and Sodium manually as described here:
 - [Install Fabric](https://fabricmc.net/use/installer/)
 - `%APPDATA%\.minecraft\mods`
   - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-  - [Iris](https://modrinth.com/mod/iris/versions?g=1.20.6)
-  - [Sodium](https://modrinth.com/mod/sodium/versions?g=1.20.6)
+  - [Iris](https://modrinth.com/mod/iris/)
+  - [Sodium](https://modrinth.com/mod/sodium)
   - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+  - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
 ### Shaders
 
