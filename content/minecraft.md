@@ -30,6 +30,8 @@ I prefer to install Fabric, Iris, and Sodium manually as described here:
 
 ## Server Mods
 
+These are running server side, no need to install on the client.
+
 The server is running Fabric 1.20.6 with the following mods:
 
 - [Fabric API](https://modrinth.com/mod/fabric-api)
