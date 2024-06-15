@@ -47,7 +47,7 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
+    disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
@@ -125,6 +125,22 @@ params:
     threshold: 0.2
     minMatchCharLength: 2
     keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: monokai
+    tabWidth: 4
 
 outputs:
     home:
