@@ -39,5 +39,7 @@ These are running server side, no need to install on the client.
 The server is running Fabric 1.20.6 with the following mods:
 
 - [Fabric API](https://modrinth.com/mod/fabric-api)
-- [Lithium](https://modrinth.com/mod/lithium) Server optimization
-- [Essential Commands](https://modrinth.com/mod/essential-commands)
+  - [Lithium](https://modrinth.com/mod/lithium) Server optimization
+  - [Essential Commands](https://modrinth.com/mod/essential-commands)
+- [Collective API](https://modrinth.com/mod/collective) for [Serilum](https://modrinth.com/user/Serilum) mods
+  - [Passive Endermen](https://modrinth.com/mod/passive-endermen)
