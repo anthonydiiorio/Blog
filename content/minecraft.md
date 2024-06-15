@@ -4,6 +4,10 @@ date: 2024-06-12T12:00:00-05:00
 draft: false
 page: true
 hidemeta: true
+cover:
+    image: "mc.jpg"
+    alt: "Home Assistant Energy Dashboard"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 I prefer to install Fabric, Iris, and Sodium manually as described here:  
