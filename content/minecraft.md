@@ -22,7 +22,7 @@ These are just client side mods, no need to install them to join the server.
   - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) Mod API
   - [Iris](https://modrinth.com/mod/iris/) Shaders
   - [Sodium](https://modrinth.com/mod/sodium) Rendering Engine
-  - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+  - [JourneyMap](https://teamjm.github.io/journeymap-docs/latest/) Mini Map
   - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) Power Saving when tabbed out
 
 ### Shaders
