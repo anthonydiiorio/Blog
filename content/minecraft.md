@@ -55,3 +55,5 @@ The server is running Fabric 1.20.6 with the following mods:
 - `%APPDATA%\.minecraft\mods`
   - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/all?page=1&pageSize=20&version=1.19.2) 1.19.2
     - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle/files/all?page=1&pageSize=20&version=1.19.2) 1.19.2 (Dependency)
+  - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.19.2&gameVersionTypeId=1) 1.19.2 (11.6.0.1020)
+  - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?page=1&pageSize=20&version=1.19.2&gameVersionTypeId=1) 1.19.2
