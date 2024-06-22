@@ -13,6 +13,8 @@ cover:
 I prefer to install Fabric, Iris, and Sodium manually as described here:  
 [GitHub: Iris Docs - Manual Installation](https://github.com/IrisShaders/Iris/blob/1.19.4/docs/guide.md#manual-installation)
 
+# Fabric
+
 ### Mods
 
 These are just client side mods, no need to install them to join the server.
@@ -34,7 +36,6 @@ These are just client side mods, no need to install them to join the server.
 - `%APPDATA%\.minecraft\resourcepacks`
   - [PureBDCraft](https://bdcraft.net/downloads/purebdcraft-minecraft/)
 
-
 ## Server Mods
 
 These are running server side, no need to install on the client.
@@ -46,3 +47,11 @@ The server is running Fabric 1.20.6 with the following mods:
   - [Essential Commands](https://modrinth.com/mod/essential-commands)
 - [Collective API](https://modrinth.com/mod/collective) for [Serilum](https://modrinth.com/user/Serilum) mods
   - [Passive Endermen](https://modrinth.com/mod/passive-endermen)
+
+# Forge
+
+- [Forge Installer](https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.0/forge-1.19.2-43.4.0-installer.jar) 1.19.2
+
+- `%APPDATA%\.minecraft\mods`
+  - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/all?page=1&pageSize=20&version=1.19.2) 1.19.2
+    - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle/files/all?page=1&pageSize=20&version=1.19.2) 1.19.2 (Dependency)
