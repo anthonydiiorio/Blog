@@ -50,7 +50,7 @@ The server is running Fabric 1.20.6 with the following mods:
 
 # Forge
 
-- [Forge Installer](https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.0/forge-1.19.2-43.4.0-installer.jar) 1.19.2
+[Forge Installer](https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.0/forge-1.19.2-43.4.0-installer.jar) 1.19.2
 
 - `%APPDATA%\.minecraft\mods`
   - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/all?page=1&pageSize=20&version=1.19.2) 1.19.2
