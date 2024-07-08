@@ -14,7 +14,11 @@ cover:
 
 After months of experimentation, I have finally published my pizza dough recipe! This foolproof dough makes delicious pizzas at home. I hope you enjoy it as much as I do!
 
-## Pizza Dough Calculator
+## Recipe
+
+Prep time: 30 minutes  
+Cook time: 6 minutes  
+Yield: {{< rawhtml >}}<span id="yield">4</span>{{< /rawhtml >}} pizzas
 
 | Ingredients   | Bakers % | Grams |
 | ------------- | -------: | ----: |
@@ -51,6 +55,7 @@ After months of experimentation, I have finally published my pizza dough recipe!
             document.getElementById('oil').textContent = Math.round(oil);
             document.getElementById('total').textContent = Math.round(totalWeight);
             document.getElementById('doughBalls').textContent = numBalls;
+            document.getElementById('yield').textContent = numBalls;
         }
         // Initial calculation
         calculateIngredients();
@@ -59,16 +64,15 @@ After months of experimentation, I have finally published my pizza dough recipe!
 
 [Print PDF 🖨️](pizza.pdf)
 
-## Dough 🍕
+### Instructions 🍕
 
 1. Mix the water, yeast, flour, and salt until fully incorporated
 2. Add the olive oil after the flour is fully hydrated
 3. Mix until the dough starts to become smooth and elastic
 4. If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing until smooth.
+5. Cover the bowl and let the dough  rise for 2-3 hours or until doubled in size. Weigh and form dough balls. Store in oiled, individual containers or in a proofing box. Refrigerate the dough balls for 1 to 7 days. Remove from the fridge 2-3 hours before baking.
 
-Cover the bowl and let the dough  rise for 2-3 hours or until doubled in size. Weigh and form dough balls. Store in oiled, individual containers or in a proofing box. Refrigerate the dough balls for 1 to 7 days. Remove from the fridge 2-3 hours before baking.
-
-## Baking 👨‍🍳
+### Baking 👨‍🍳
 
 * Preheat the oven to its highest setting. My oven goes to 555°F.
 * **Pizza Stone**: bake for 5-6 minutes or until golden
@@ -95,7 +99,7 @@ Finally weigh and form the dough balls. Place in individual oiled containers or 
 
 ![Ready to launch](Pizza-1.jpg)
 
-My assembled pizza on the peel ready to launch. Be generous with the flour on the peel so it doesn't stick and throw all your toppings into your oven (Don't ask me how I know).
+My assembled pizza on the peel ready to launch. Be generous with the flour or semolina on the peel so it doesn't stick and throw all your toppings into your oven (Don't ask me how I know).
 
 ![Pizza](Pizza-2.jpg)
 
