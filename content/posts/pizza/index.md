@@ -143,3 +143,63 @@ If you use about 500g of dough you can make a really delicious and fluffy focacc
 `2022-11-28:` Reduced hydration to 60% and oil to 2%. I find the dough easier too work with and less sticky. Cook time is also reduced by 1 minute.
 
 `2024-05-16:` Added pizza dough calculator ✨
+
+{{< rawhtml >}}
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "Recipe",
+	"name": "Anthony's Pizza Dough",
+	"image": [
+		"https://diiorio.me/posts/pizza/Pizza-2.jpg"
+	],
+	"recipeCategory": "dinner",
+	"recipeCuisine": "Italian",
+	"prepTime": "PT30M",
+	"cookTime": "PT6M",
+	"totalTime": "PT1H",
+	"recipeYield": "4",
+	"datePublished": "2024-07-08",
+	"description": "After months of experimentation, I have finally published my pizza dough recipe! This foolproof dough makes delicious pizzas at home. I hope you enjoy it as much as I do!",
+	"keywords": "pizza, dough, italian",
+	"author": {
+		"@type": "Person",
+		"name": "Anthony DI Iorio"
+	},
+	"recipeIngredient": [
+		"608g of Flour (All Purpose/Bread Flour)",
+		"365g of Water",
+		"3g of Instant Dry Yeast",
+		"12g of Salt",
+		"12g of Oil"
+	],
+	"recipeInstructions": [
+		{
+			"@type": "HowToStep",
+			"text": "Mix the water, yeast, flour, and salt until fully incorporated"
+		},
+		{
+			"@type": "HowToStep",
+			"text": "Add the olive oil after the flour is fully hydrated"
+		},
+		{
+			"@type": "HowToStep",
+			"text": "Mix until the dough starts to become smooth and elastic"
+		},
+		{
+			"@type": "HowToStep",
+			"text": "If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing until smooth."
+		},
+		{
+			"@type": "HowToStep",
+			"text": "Cover the bowl and let the dough rise for 2-3 hours or until doubled in size. Weigh and form dough balls. Store in oiled, individual containers or in a proofing box. Refrigerate the dough balls for 1 to 7 days. Remove from the fridge 2-3 hours before baking."
+		},
+		{
+			"@type": "HowToStep",
+			"name": "Baking",
+			"text": "Preheat the oven to its highest setting. My oven goes to 555°F. Bake on a pizza stone for 5 to 6 minutes or until golden."
+		}
+	]
+}
+</script>
+{{< /rawhtml >}}
