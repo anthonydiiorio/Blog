@@ -73,7 +73,7 @@ After months of experimentation, I have finally published my pizza dough recipe!
 ### Baking 👨‍🍳
 
 * Preheat the oven to its highest setting. My oven goes to 555°F.
-* **Pizza Stone**: bake for 5-6 minutes or until golden
+* **Pizza Stone**: bake for 5-6 minutes, or until golden
 
 ## Photos 📷
 
@@ -164,7 +164,7 @@ If you use about 500g of dough you can make a really delicious and fluffy focacc
 	"keywords": "pizza, dough, italian",
 	"author": {
 		"@type": "Person",
-		"name": "Anthony DI Iorio"
+		"name": "Anthony Di Iorio"
 	},
 	"recipeIngredient": [
 		"608g of Flour (All Purpose/Bread Flour)",
@@ -176,28 +176,27 @@ If you use about 500g of dough you can make a really delicious and fluffy focacc
 	"recipeInstructions": [
 		{
 			"@type": "HowToStep",
-			"text": "Mix the water, yeast, flour, and salt until fully incorporated"
+			"text": "Mix the water, yeast, flour, and salt until fully incorporated.",
+            "image": "https://diiorio.me/posts/pizza/Pizza-4.jpg"
 		},
 		{
 			"@type": "HowToStep",
-			"text": "Add the olive oil after the flour is fully hydrated"
+			"text": "Add the olive oil after the flour is fully hydrated.",
+            "image": "https://diiorio.me/posts/pizza/Pizza-6.jpg
 		},
 		{
 			"@type": "HowToStep",
-			"text": "Mix until the dough starts to become smooth and elastic"
+			"text": "Mix until the dough starts to become smooth and elastic. If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing until smooth."
 		},
 		{
 			"@type": "HowToStep",
-			"text": "If the dough is tough, let it rest for 5-10 minutes to relax the gluten, then continue mixing until smooth."
+			"text": "Cover the bowl and let the dough rise for 2-3 hours or until doubled in size. Weigh and form dough balls. Store in oiled, individual containers or in a proofing box. Refrigerate the dough balls for 1 to 7 days. Remove from the fridge 2-3 hours before baking.",
+            "image": "https://diiorio.me/posts/pizza/Pizza-7.jpg"
 		},
 		{
 			"@type": "HowToStep",
-			"text": "Cover the bowl and let the dough rise for 2-3 hours or until doubled in size. Weigh and form dough balls. Store in oiled, individual containers or in a proofing box. Refrigerate the dough balls for 1 to 7 days. Remove from the fridge 2-3 hours before baking."
-		},
-		{
-			"@type": "HowToStep",
-			"name": "Baking",
-			"text": "Preheat the oven to its highest setting. My oven goes to 555°F. Bake on a pizza stone for 5 to 6 minutes or until golden."
+			"text": "Baking: Preheat the oven to its highest setting. My oven goes to 555°F. Bake on a pizza stone for 5 to 6 minutes, or until golden.",
+            "image": "https://diiorio.me/posts/pizza/Pizza-1.jpg"
 		}
 	]
 }
