@@ -16,9 +16,7 @@ After months of experimentation, I have finally published my pizza dough recipe!
 
 ## Recipe
 
-Prep time: 30 minutes  
-Cook time: 6 minutes  
-Yield: {{< rawhtml >}}<span id="yield">4</span>{{< /rawhtml >}} pizzas
+🕐 Prep time: 30 minutes · 🕐 Cook time: 6 minutes · 🍕 Yield: {{< rawhtml >}}<span id="yield">4</span>{{< /rawhtml >}} pizzas
 
 | Ingredients   | Bakers % | Grams |
 | ------------- | -------: | ----: |
