@@ -182,7 +182,7 @@ If you use about 500g of dough you can make a really delicious and fluffy focacc
 		{
 			"@type": "HowToStep",
 			"text": "Add the olive oil after the flour is fully hydrated.",
-            "image": "https://diiorio.me/posts/pizza/Pizza-6.jpg
+            "image": "https://diiorio.me/posts/pizza/Pizza-6.jpg"
 		},
 		{
 			"@type": "HowToStep",
