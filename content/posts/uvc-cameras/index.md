@@ -47,6 +47,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 - Sony A6700 [(4K30)](https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_usb_streaming.html)
 - Sony ZV-E1 [(4K30)](https://helpguide.sony.net/ilc/2310/v1/en/contents/211h_usb_streaming.html)
 - Sony ZV-E10 [(720p30)](https://helpguide.sony.net/ilc/2070/v1/en/contents/TP1000201566.html)
+- Sony ZV-E10 II (4K30)
 - Sony ZV-1, ZV-1F, ZV-1 II [(720p30)](https://helpguide.sony.net/dc/2310/v1/en/contents/202h_usb_streaming.html)
 
 ### OM System
