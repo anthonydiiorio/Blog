@@ -90,3 +90,11 @@ ipptool -tv ipp://localhost:631/printers/Printer_Name /usr/share/cups/ipptool/ge
 ### Notes
 
 This tutorial was created using CUPS 2.4.2, and Ubuntu Server 23.10.
+
+For Chromebooks try directly connecting to the printer with this address:
+
+```
+ipp://printer.local:631/ipp/port1
+```
+
+This works better than some who recommend AppSocket on port 9100.
