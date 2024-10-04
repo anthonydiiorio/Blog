@@ -100,17 +100,37 @@ If you have a smart thermostat you can easily trigger off that, or else you need
 
 Set up a [**Derivative**](https://www.home-assistant.io/integrations/derivative/) helper to watch a temperature sensor placed on a register reporting every minute. My settings are Precision: 2, Time Window: 2 minutes, Time Unit: Minutes.
 
+Set up an Input Boolean to track Cooling or Heating. Also set up automations to switch into Cooling or Heating based on temperature.
+
 Then set up a [**Template Binary Sensor**](https://www.home-assistant.io/integrations/template/) helper with the following template:
 
 ```yaml
-{% if states('sensor.vent_derivative') | float <= -0.25 %} # On when temp drops -0.25 C / minute
-  on
-{% elif states('sensor.vent_derivative') | float >= 0.25 %} # Off when temp increases 0.25 C / minute
-  off
-{% elif states('sensor.vent_temperature') | float <= 16 %} # Steady state, hold on
-  on
-{% else %} 
-  off
+{%if is_state('input_boolean.cooling', 'on') %}
+  {# Cooling Mode #}
+  {% if states('sensor.vent_derivative') | float <= -0.25 %}
+    on
+  {% elif states('sensor.vent_derivative') | float >= 0.25 %}
+    off
+  {% elif states('sensor.tasmota_bmp280_temperature') | float <= 16 %}
+    on
+  {% elif states('sensor.tasmota_bmp280_temperature') | float >= 18 %}
+    off
+  {% else %}
+    off
+  {% endif %}
+{% else %}
+  {# Heating Mode #}
+  {% if states('sensor.vent_derivative') | float <= 0.25 %}
+    on
+  {% elif states('sensor.vent_derivative') | float >= -0.25 %}
+    off
+  {% elif states('sensor.tasmota_bmp280_temperature') | float >= 24 %}
+    on
+  {% elif states('sensor.tasmota_bmp280_temperature') | float <= 20 %}
+    off
+  {% else %}
+    off
+  {% endif %}
 {% endif %}
 ```
 
