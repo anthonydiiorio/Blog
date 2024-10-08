@@ -120,11 +120,11 @@ Then set up a [**Template Binary Sensor**](https://www.home-assistant.io/integra
   {% endif %}
 {% else %}
   {# Heating Mode #}
-  {% if states('sensor.vent_derivative') | float <= 0.25 %}
+  {% if states('sensor.vent_derivative') | float >= 0.25 %}
     on
-  {% elif states('sensor.vent_derivative') | float >= -0.25 %}
+  {% elif states('sensor.vent_derivative') | float <= -0.25 %}
     off
-  {% elif states('sensor.tasmota_bmp280_temperature') | float >= 24 %}
+  {% elif states('sensor.tasmota_bmp280_temperature') | float >= 25 %}
     on
   {% elif states('sensor.tasmota_bmp280_temperature') | float <= 20 %}
     off
