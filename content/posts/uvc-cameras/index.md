@@ -40,6 +40,12 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 📝 Note that you cannot power Fujifilm cameras over USB **and** use it as a UVC webcam at the same time. Not great for live streaming unless you plan to use a dummy battery like the [Kondor Blue D-Tap to NP-W235 adapter](https://kondorblue.com/products/d-tap-to-fuji-npw235-dummy-battery-cable).
 
+### Nikon
+
+- Nikon Z50II
+
+A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
+
 ### Sony
 
 - Sony A7 IV [(1080p60)](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660156.html)
