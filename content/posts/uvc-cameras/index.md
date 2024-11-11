@@ -24,6 +24,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 ### DJI
 
 - DJI Osmo Pocket 3
+- DJI Osmo Action 5 Pro
 
 ### Fujifilm
 
