@@ -13,9 +13,9 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 ### Canon
 
-- Canon EOS R1
+- Canon EOS R1 [(1080p30)](https://cam.start.canon/en/C018/manual/html/UG-06_Network_0300.html)
 - Canon EOS R5 C [(576p30)](https://www.usa.canon.com/support/p/eos-r5-c)
-- Canon EOS R5 Mark II [1080p30](https://cam.start.canon/en/C017/manual/html/UG-06_Network_0300.html)
+- Canon EOS R5 Mark II [(1080p30)](https://cam.start.canon/en/C017/manual/html/UG-06_Network_0300.html)
 - Canon EOS R6 Mark II [(1080p30)](https://cam.start.canon/en/C012/manual/html/UG-08_Set-up_0310.html)
 - Canon EOS R8 [(1080p30)](https://cam.start.canon/en/C013/manual/html/UG-08_Set-up_0270.html)
 - Canon EOS R50 [(1080p30)](https://cam.start.canon/en/C011/manual/html/UG-09_Set-up_0230.html)
@@ -49,15 +49,17 @@ A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
 
 ### Sony
 
-- Sony A7 IV [(1080p60)](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660156.html)
-- Sony A7R V [(1080p60)](https://helpguide.sony.net/ilc/2230/v1/en/contents/TP1000669419.html)
-- Sony A7C [(720p30)](https://helpguide.sony.net/ilc/2020/v1/en/contents/TP1000553122.html) ❗No USB-C Power Delivery
-- Sony A7C II [(4K30)](https://helpguide.sony.net/ilc/2360/v1/en/contents/211h_usb_streaming.html)
-- Sony A7CR [(4K30)](https://helpguide.sony.net/ilc/2370/v1/en/contents/211h_usb_streaming.html)
-- Sony A6700 [(4K30)](https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_usb_streaming.html)
+- Sony a1 [(4K30)](https://helpguide.sony.net/ilc/2420/v1/en/contents/211h_usb_streaming.html)
+- Sony a1 II (4K30)
+- Sony a7 IV [(1080p60)](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660156.html)
+- Sony a7R V [(1080p60)](https://helpguide.sony.net/ilc/2230/v1/en/contents/TP1000669419.html)
+- Sony a7C [(720p30)](https://helpguide.sony.net/ilc/2020/v1/en/contents/TP1000553122.html) ❗No USB-C Power Delivery
+- Sony a7C II [(4K30)](https://helpguide.sony.net/ilc/2360/v1/en/contents/211h_usb_streaming.html)
+- Sony a7CR [(4K30)](https://helpguide.sony.net/ilc/2370/v1/en/contents/211h_usb_streaming.html)
+- Sony a6700 [(4K30)](https://helpguide.sony.net/ilc/2320/v1/en/contents/211h_usb_streaming.html)
 - Sony ZV-E1 [(4K30)](https://helpguide.sony.net/ilc/2310/v1/en/contents/211h_usb_streaming.html)
 - Sony ZV-E10 [(720p30)](https://helpguide.sony.net/ilc/2070/v1/en/contents/TP1000201566.html)
-- Sony ZV-E10 II (4K30)
+- Sony ZV-E10 II [(4K30)](https://helpguide.sony.net/ilc/2430/v1/en/contents/211h_usb_streaming.html)
 - Sony ZV-1, ZV-1F, ZV-1 II [(720p30)](https://helpguide.sony.net/dc/2310/v1/en/contents/202h_usb_streaming.html)
 
 ### OM System
