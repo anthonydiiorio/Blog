@@ -71,6 +71,10 @@ A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
 - OM System OM-1 II [(720p30)](https://learnandsupport.getolympus.com/sites/default/files/media/files/2024/01/OM-1Mk2_ENU_00.pdf)
 - OM System OM-5 [(720p30)](https://learnandsupport.getolympus.com/sites/default/files/media/files/2022/10/OM-5_ENU_00.pdf)
 
+### Sigma
+
+- Sigma fp
+
 ### Capture Devices with UVC
 
 #### Blackmagic
