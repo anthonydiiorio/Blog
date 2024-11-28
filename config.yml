@@ -1,7 +1,8 @@
 baseURL: 'https://diiorio.me/'
 languageCode: en-us
 title: Anthony Di Iorio
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 # Update sitemap with git dates

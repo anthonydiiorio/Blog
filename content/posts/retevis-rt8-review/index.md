@@ -65,12 +65,16 @@ The radio has a nice feel in the hand. It feels robust and has a nice weight. Th
 
 ### Audio and Range Testing
 
+{{< rawhtml >}}
 <iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/720158680%3Fsecret_token%3Ds-vJGp4&color=%23191a26&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+{{< /rawhtml >}}
 
 Analog audio is nice and smooth. About 300 - 4000 hz frequency response.  
 DMR audio sounds good too. About 100 - 3850 hz frequency response.
 
+{{< rawhtml >}}
 <iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/720158677%3Fsecret_token%3Ds-6pEpJ&color=%23191a26&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+{{< /rawhtml >}}
 
 Analog starts to break up on the frige, going in and out of the squelch and into the noise, while DMR continues to stay crystal clear. Very impressive!
 
