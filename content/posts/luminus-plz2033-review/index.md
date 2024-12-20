@@ -10,7 +10,7 @@ cover:
     hidden: false
 ---
 
-In November 2019 I purchased these Luminus GU10 spots at Costco. The big "Natural Colours CRI > 90" stamp on the box caught my eye. The price was too good to be true, $15.99 for 8 bulbs, and it turns out it was indeed. These lights fell far short of their rated specifications, exhibiting color shift and failing after a mere 1 year, 7 months, and 14 days. I used these lights anywhere from 8 to 14 hours every day for 591 days. That gives me an estimated runtime of 4728 to 8274 hours. Luminus claims a 25,000 hour runtime.
+In November 2021 I purchased these Luminus GU10 spots at Costco. The big "Natural Colours CRI > 90" stamp on the box caught my eye. The price was too good to be true, $15.99 for 8 bulbs, and it turns out it was indeed. These lights fell far short of their rated specifications, exhibiting color shift and failing after a mere 1 year, 7 months, and 14 days. I used these lights anywhere from 8 to 14 hours every day for 591 days. That gives me an estimated runtime of 4728 to 8274 hours. Luminus claims a 25,000 hour runtime.
 
 | Luminus | PLZ2033 | Notes |
 |---|---|---|
