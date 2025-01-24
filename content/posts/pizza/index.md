@@ -21,15 +21,17 @@ After months of experimentation, I have finally published my pizza dough recipe!
 | Ingredients   | Bakers % | Grams |
 | ------------- | -------: | ----: |
 | Flour (AP/Bread) | 100%  | {{< rawhtml >}}<span id="flour">608</span>{{< /rawhtml >}} |
-| Water         | 60%      | {{< rawhtml >}}<span id="water">365</span>{{< /rawhtml >}} |
+| Water         | {{< rawhtml >}}<span id="waterPercent">60%</span>{{< /rawhtml >}} | {{< rawhtml >}}<span id="water">365</span>{{< /rawhtml >}} |
 | Yeast (IDY)   | 0.50%    | {{< rawhtml >}}<span id="yeast">3</span>{{< /rawhtml >}} |
 | Salt          | 2%       | {{< rawhtml >}}<span id="salt">12</span>{{< /rawhtml >}} |
 | Oil           | 2%       | {{< rawhtml >}}<span id="oil">12</span>{{< /rawhtml >}} |
 | Total         |          | {{< rawhtml >}}<span id="total">1000</span>{{< /rawhtml >}} |
 
 {{< rawhtml >}}
-    <label for="numBalls" style="padding-right: 0.2em;">Number of Dough Balls:</label>
+    <label for="numBalls" style="padding-right: 0.2em;">🍕 Number of Dough Balls:</label>
     <input type="number" id="numBalls" value="4" min="1" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
+    <label for="hydration" style="padding-right: 0.2em;">💧 Hydration:</label>
+    <input type="number" id="hydration" value="60" min="50" max="80" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
 {{< /rawhtml >}}
 
 **Makes {{< rawhtml >}}<span id="doughBalls">4</span>{{< /rawhtml >}} x 12" 250g dough balls**
@@ -38,10 +40,11 @@ After months of experimentation, I have finally published my pizza dough recipe!
        <script>
         function calculateIngredients() {
             const numBalls = document.getElementById('numBalls').value;
+            const hydration = document.getElementById('hydration').value / 100;
             const doughWeight = 250; // Weight of each dough ball in grams
             const totalDoughWeight = numBalls * doughWeight;
-            const flour = totalDoughWeight / (1 + 0.60 + 0.005 + 0.02 + 0.02);
-            const water = flour * 0.60;
+            const flour = totalDoughWeight / (1 + hydration + 0.005 + 0.02 + 0.02);
+            const water = flour * hydration;
             const yeast = flour * 0.005;
             const salt = flour * 0.02;
             const oil = flour * 0.02;
@@ -54,6 +57,7 @@ After months of experimentation, I have finally published my pizza dough recipe!
             document.getElementById('total').textContent = Math.round(totalWeight);
             document.getElementById('doughBalls').textContent = numBalls;
             document.getElementById('yield').textContent = numBalls;
+            document.getElementById('waterPercent').textContent = `${Math.round(hydration * 100)}%`;
         }
         // Initial calculation
         calculateIngredients();
