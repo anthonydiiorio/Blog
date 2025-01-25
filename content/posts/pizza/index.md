@@ -36,7 +36,7 @@ After months of experimentation, I have finally published my pizza dough recipe!
     </div>
     <div style="display: inline-block; vertical-align: top;">
         <label for="hydration" style="padding-right: 0.2em;">💧 Hydration:</label>
-        <input type="number" id="hydration" value="60" min="50" max="80" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
+        <input type="number" id="hydration" value="60" min="60" max="65" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
     </div>
 {{< /rawhtml >}}
 
