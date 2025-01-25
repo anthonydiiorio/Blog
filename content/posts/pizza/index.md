@@ -27,14 +27,18 @@ After months of experimentation, I have finally published my pizza dough recipe!
 | Oil           | 2%       | {{< rawhtml >}}<span id="oil">12</span>{{< /rawhtml >}} |
 | Total         |          | {{< rawhtml >}}<span id="total">1000</span>{{< /rawhtml >}} |
 
-{{< rawhtml >}}
-    <label for="numBalls" style="padding-right: 0.2em;">🍕 Number of Dough Balls:</label>
-    <input type="number" id="numBalls" value="4" min="1" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
-    <label for="hydration" style="padding-right: 0.2em;">💧 Hydration:</label>
-    <input type="number" id="hydration" value="60" min="50" max="80" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
-{{< /rawhtml >}}
-
 **Makes {{< rawhtml >}}<span id="doughBalls">4</span>{{< /rawhtml >}} x 12" 250g dough balls**
+
+{{< rawhtml >}}
+    <div style="display: inline-block; vertical-align: top; margin-right: 0.5em;">
+        <label for="numBalls" style="padding-right: 0.2em;">🍕 Number of dough balls:</label>
+        <input type="number" id="numBalls" value="4" min="1" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
+    </div>
+    <div style="display: inline-block; vertical-align: top;">
+        <label for="hydration" style="padding-right: 0.2em;">💧 Hydration:</label>
+        <input type="number" id="hydration" value="60" min="50" max="80" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
+    </div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
        <script>
