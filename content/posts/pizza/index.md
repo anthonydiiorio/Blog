@@ -32,7 +32,7 @@ After months of experimentation, I have finally published my pizza dough recipe!
     <input type="number" id="numBalls" value="4" min="1" oninput="calculateIngredients()" style="width:80px; font-weight: bold;">
 {{< /rawhtml >}}
 
-**Makes {{< rawhtml >}}<span id="doughBalls">4</span>{{< /rawhtml >}} x 12" 250g dough balls**
+**Makes {{< rawhtml >}}<span id="doughBalls">4</span>{{< /rawhtml >}} x 30 cm / 12" 250g dough balls**
 
 {{< rawhtml >}}
        <script>
