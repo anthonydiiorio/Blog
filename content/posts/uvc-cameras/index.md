@@ -20,6 +20,11 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 - Canon EOS R50 [(1080p30)](https://cam.start.canon/en/C011/manual/html/UG-09_Set-up_0230.html)
 - Canon PowerShot V10 [(1080p30)](https://cam.start.canon/en/C014/manual/html/UG-05_Set-up_0180.html)
 
+#### AC Adapters
+- Canon AC-E6N +  DR-E6 (LP-E6N: R6 II)
+- Canon DR-E6P + PD Charger (LP-E6P: R5 II)
+- Canon ACK-E18 (LP-17: R8, R50)
+
 #### Cinema EOS
 
 - Canon EOS C80 [(1024x576 30p)](https://www.usa.canon.com/support/p/eos-c80)
