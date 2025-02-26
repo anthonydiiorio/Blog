@@ -25,6 +25,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 - Canon AC-E6N +  DR-E6 (LP-E6N: R6 II)
 - Canon DR-E6P + PD Charger (LP-E6P: R5 II)
 - Canon ACK-E18 (LP-17: R8, R50)
+- [Kondor Blue LP-E6 NH D-TAP](https://kondorblue.com/products/d-tap-to-canon-lpe6-dummy-battery-cable)
 
 #### Cinema EOS
 
