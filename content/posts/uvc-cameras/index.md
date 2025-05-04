@@ -56,7 +56,8 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 ### Nikon
 
-- Nikon Z50II
+- Nikon Z50II [(1080p60)](https://onlinemanual.nikonimglib.com/z50II/en/19-08.html)
+- Nikon Z5II [(1080p60)](https://onlinemanual.nikonimglib.com/z5II/en/video_usb_streaming_uvc_uac_51.html)
 
 A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
 
