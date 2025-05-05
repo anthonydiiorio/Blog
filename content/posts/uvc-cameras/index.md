@@ -52,7 +52,9 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 [Manual](https://fujifilm-dsc.com/en/manual/x-h2_connection/overview_usage/webcam/index.html)
 
-📝 Note that you cannot power Fujifilm cameras over USB **and** use it as a UVC webcam at the same time. Not great for live streaming unless you plan to use a dummy battery like the [Kondor Blue D-Tap to NP-W235 adapter](https://kondorblue.com/products/d-tap-to-fuji-npw235-dummy-battery-cable).
+📝 You can power the camera by using a USB-C port with Power Delivery, or else use a dummy battery like the [Kondor Blue D-Tap to NP-W235 adapter](https://kondorblue.com/products/d-tap-to-fuji-npw235-dummy-battery-cable).
+
+🔌 [Fujifilm USB Power Specifications](https://digitalcamera-support-en.fujifilm.com/digitalcameraengpcdetail?aid=000003635&p=a065i00000975qpAAA&wd=charging)
 
 ### Nikon
 
