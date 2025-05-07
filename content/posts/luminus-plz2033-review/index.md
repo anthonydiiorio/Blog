@@ -35,13 +35,21 @@ The lens has many small elements that disperse the light in a nice diffused patt
 With only 71.4 lumens per watt these lights are far from state of the art efficiency. Other lights on the market are reaching well over 100 lumens per watt today.
 
 For comparison
-- [Philips EyeComfort GU10 380 lm](https://www.energystar.gov/productfinder/product/certified-light-bulbs/details/2340872) 95 lm/W.
+- Philips EyeComfort GU10 380 lm 95 lm/W.
 - [Ikea Solhetta GU10 600 lm](https://www.ikea.com/ca/en/p/solhetta-led-bulb-gu10-600-lumen-dimmable-90548420/) 140 lm/W
 - [Ikea Solhetta GU10 380 lm](https://www.ikea.com/ca/en/p/solhetta-led-bulb-gu10-380-lumen-dimmable-40498781/) 115 lm/W
 
-Ikea has reached a staggering [160 Lumens per watt](https://www.energystar.gov/productfinder/product/certified-light-bulbs/details/2393573) on their new [Solhetta 2700K 450 lm](https://www.ikea.com/ca/en/p/solhetta-led-bulb-e26-450-lumen-globe-clear-50498667/) bulb, using only 2.8W to produce 450 lumens. Very impressive, I'd like to try these out.
+Ikea has reached a staggering 160 Lumens per watt on their new [Solhetta 2700K 450 lm](https://www.ikea.com/ca/en/p/solhetta-led-bulb-e26-450-lumen-globe-clear-50498667/) bulb, using only 2.8W to produce 450 lumens. Very impressive, I'd like to try these out.
 
-[Energy Star](https://www.energystar.gov/productfinder/product/certified-light-bulbs/) has a good database of bulbs you can use and sort by lumens per watt. The higher the efficiency, the less power is wasted as heat, the less likely the power supply will cook itself.
+~~Energy Star has a good database of bulbs you can use and sort by lumens per watt~~ 
+
+Nope. They delete it.
+
+>In recognition of this progress and because it is no longer possible to purchase inefficient light bulbs for the majority of of household applications, the EPA has ended the ENERGY STAR program for the most common light fixtures.
+
+This is total BS of course. There is a wide range of really junk to excellent LED bulbs on the market. This decision is short sighted by the EPA, and quite frankly a disgrace to have this database deleted.
+
+The higher the efficiency, the less power is wasted as heat, the less likely the power supply will cook itself. 
 
 ## Colour Shift and Output Reduction
 
