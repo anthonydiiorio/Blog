@@ -58,8 +58,8 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 ### Panasonic Lumix
 
-- Panasonic Lumix S1 II
-- Panasonic Lumix S1 IIE
+- Panasonic Lumix S1 II (1080p60, 4K 15fps)
+- Panasonic Lumix S1 IIE (1080p60, 4K 15 fps)
 
 A new addition for mid 2025, Panasonic has finally started making UVC cameras! 😀
 
