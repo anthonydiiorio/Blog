@@ -56,11 +56,17 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 🔌 [Fujifilm USB Power Specifications](https://digitalcamera-support-en.fujifilm.com/digitalcameraengpcdetail?aid=000003635&p=a065i00000975qpAAA&wd=charging)
 
+### Panasonic Lumix
+
+- Panasonic Lumix S1 II
+- Panasonic Lumix S1 IIE
+
+A new addition for mid 2025, Panasonic has finally started making UVC cameras! 😀
+
 ### Nikon
 
 - Nikon Z5II [(1080p60)](https://onlinemanual.nikonimglib.com/z5II/en/video_usb_streaming_uvc_uac_51.html)
 - Nikon Z50II [(1080p60)](https://onlinemanual.nikonimglib.com/z50II/en/19-08.html)
-
 
 A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
 
