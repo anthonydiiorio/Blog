@@ -85,6 +85,8 @@ A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
 - Sony ZV-E10 II [(4K30)](https://helpguide.sony.net/ilc/2430/v1/en/contents/211h_usb_streaming.html)
 - Sony ZV-1, ZV-1F, ZV-1 II [(720p30)](https://helpguide.sony.net/dc/2310/v1/en/contents/202h_usb_streaming.html)
 
+- Sony FX2
+
 ### OM System
 
 - OM System OM-1 II [(720p30)](https://learnandsupport.getolympus.com/sites/default/files/media/files/2024/01/OM-1Mk2_ENU_00.pdf)
