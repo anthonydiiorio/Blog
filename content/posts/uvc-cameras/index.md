@@ -43,6 +43,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 #### X-Processor 5 (4K60)
 
 - Fujifilm X100VI
+- Fujifilm X-E5
 - Fujifilm X-H2 
 - Fujifilm X-H2S
 - Fujifilm X-M5
