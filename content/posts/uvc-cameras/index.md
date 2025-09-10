@@ -30,6 +30,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 #### Cinema EOS
 
+- Canon EOS C50 (1080p60)
 - Canon EOS C80 [(1024x576 30p)](https://www.usa.canon.com/support/p/eos-c80)
 - Canon EOS R5 C [(1024x576 30p)](https://www.usa.canon.com/support/p/eos-r5-c)
 
