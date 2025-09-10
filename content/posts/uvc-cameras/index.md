@@ -68,6 +68,7 @@ A new addition for mid 2025, Panasonic has finally started making UVC cameras! ð
 
 - Nikon Z5II [(1080p60)](https://onlinemanual.nikonimglib.com/z5II/en/video_usb_streaming_uvc_uac_51.html)
 - Nikon Z50II [(1080p60)](https://onlinemanual.nikonimglib.com/z50II/en/19-08.html)
+- Nikon ZR (1080p60)
 
 A new addition for late 2024, Nikon has finally started making UVC cameras! ðŸ˜€
 
