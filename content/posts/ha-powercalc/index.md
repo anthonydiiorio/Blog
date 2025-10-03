@@ -96,37 +96,45 @@ BTU ÷ SEER = Watts
 
 For example 24,000 BTU ÷ 10 SEER = 2400 Watts
 
+For my heat pump, the manual has a power consumption vs output table, and I measured my air handler blower with a clamp meter (475W).
+
+| Outdoor Temp | Capacity (BTU) |    kW     |  COP |
+|:------------:|:--------------:|:---------:|:----:|
+|    35°C (COOL)     |    22,400   | 2.35 kW  | 2.79 |
+|    8.5°C (HEAT)    |    24,000   | 2.33 kW  | 3.02 |
+|   -8.5°C (HEAT)    |    15,200   | 2.06 kW  | 2.18 |
+
 If you have a smart thermostat you can easily trigger off that, or else you need to set up a temperature sensor and some helpers. You could also trigger off a light sensor if your machine turns on an LED when it's running.
 
 Set up a [**Derivative**](https://www.home-assistant.io/integrations/derivative/) helper to watch a temperature sensor placed on a register reporting every minute. My settings are Precision: 2, Time Window: 2 minutes, Time Unit: Minutes.
 
-Set up an Input Boolean to track Cooling or Heating. Also set up automations to switch into Cooling or Heating based on temperature.
+Set up an Input Boolean to track Cooling or Heating. Also set up 2 automations to switch into Cooling or Heating mode based on temperature.
 
 Then set up a [**Template Binary Sensor**](https://www.home-assistant.io/integrations/template/) helper with the following template:
 
 ```yaml
 {%if is_state('input_boolean.cooling', 'on') %}
   {# Cooling Mode #}
-  {% if states('sensor.vent_derivative') | float <= -0.25 %}
+  {% if states('sensor.vent_derivative') | float <= -0.15 %}
     on
-  {% elif states('sensor.vent_derivative') | float >= 0.25 %}
+  {% elif states('sensor.vent_derivative') | float >= 0.20 %}
     off
-  {% elif states('sensor.tasmota_bmp280_temperature') | float <= 16 %}
+  {% elif states('sensor.vent_bmp280_temperature') | float <= 15.5 %}
     on
-  {% elif states('sensor.tasmota_bmp280_temperature') | float >= 18 %}
+  {% elif states('sensor.vent_bmp280_temperature') | float >= 18 %}
     off
   {% else %}
     off
   {% endif %}
 {% else %}
   {# Heating Mode #}
-  {% if states('sensor.vent_derivative') | float >= 0.25 %}
+  {% if states('sensor.vent_derivative') | float >= 0.20 %}
     on
   {% elif states('sensor.vent_derivative') | float <= -0.25 %}
     off
-  {% elif states('sensor.tasmota_bmp280_temperature') | float >= 25 %}
+  {% elif states('sensor.vent_bmp280_temperature') | float >= 25 %}
     on
-  {% elif states('sensor.tasmota_bmp280_temperature') | float <= 20 %}
+  {% elif states('sensor.vent_bmp280_temperature') | float <= 20 %}
     off
   {% else %}
     off
@@ -137,12 +145,6 @@ Then set up a [**Template Binary Sensor**](https://www.home-assistant.io/integra
 You may have to tweak this for your own HVAC system. 
 
 ![Vent Sensors](vent.png)
-
-Come back in 6 months when I have to modify this for the winter to see how to actually do this properly 😉
-
-It requires some additional logic to account for defrost cycles that I need live data to test with.
-
-Honestly just buy a smart thermostat or see if your system has an LED you can attach a light sensor to and avoid all this nonsense. For an accurate reading there are current clamps you could use instead. 
 
 ### Final Thoughts
 
