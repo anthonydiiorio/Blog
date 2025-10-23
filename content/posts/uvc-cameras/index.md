@@ -49,6 +49,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 - Fujifilm X-H2S
 - Fujifilm X-M5
 - Fujifilm X-S20
+- Fujifilm X-T30 III
 - Fujifilm X-T5
 - Fujifilm X-T50
 
