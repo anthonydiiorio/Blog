@@ -55,7 +55,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 
 [Manual](https://fujifilm-dsc.com/en/manual/x-h2_connection/overview_usage/webcam/index.html)
 
-📝 You can power the camera by using a USB-C port with Power Delivery, or else use a dummy battery like the [Kondor Blue D-Tap to NP-W235 adapter](https://kondorblue.com/products/d-tap-to-fuji-npw235-dummy-battery-cable).
+You can power the camera by using a USB-C port with Power Delivery, or else use a dummy battery like the [Kondor Blue D-Tap to NP-W235 adapter](https://kondorblue.com/products/d-tap-to-fuji-npw235-dummy-battery-cable).
 
 🔌 [Fujifilm USB Power Specifications](https://digitalcamera-support-en.fujifilm.com/digitalcameraengpcdetail?aid=000003635&p=a065i00000975qpAAA&wd=charging)
 
@@ -117,7 +117,7 @@ A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
 
 The following pieces of software can be used on older cameras that do not support UVC over USB. Note that most of these are going to be low resolution, low fps solutions. 
 
-**📝 You are better off using an external capture card!**
+**You are better off using an external capture card!**
 
 - [Canon EOS Webcam Utility](https://www.usa.canon.com/cameras/eos-webcam-utility) (1024x576)
 - [FUJIFILM X Webcam](https://fujifilm-x.com/en-ca/products/software/x-webcam/) (1024x768 low fps)
