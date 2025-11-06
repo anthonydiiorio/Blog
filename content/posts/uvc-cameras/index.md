@@ -16,6 +16,7 @@ Here is a list of UVC protocol mirrorless cameras you can use for video calls, l
 - Canon EOS R1 [(1080p30)](https://cam.start.canon/en/C018/manual/html/UG-06_Network_0300.html)
 - Canon EOS R5 Mark II [(1080p30)](https://cam.start.canon/en/C017/manual/html/UG-06_Network_0300.html)
 - Canon EOS R6 Mark II [(1080p30)](https://cam.start.canon/en/C012/manual/html/UG-08_Set-up_0310.html)
+- Canon EOS R6 Mark III
 - Canon EOS R8 [(1080p30)](https://cam.start.canon/en/C013/manual/html/UG-08_Set-up_0270.html)
 - Canon EOS R50 [(1080p30)](https://cam.start.canon/en/C011/manual/html/UG-09_Set-up_0230.html)
 - Canon EOS R50 V
