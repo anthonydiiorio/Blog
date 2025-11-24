@@ -4,6 +4,7 @@ deploy.bat
 /public
 /resources
 .hugo_build.lock
+*.afphoto
 
 ## OS Files
 # Windows
