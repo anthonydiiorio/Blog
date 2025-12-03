@@ -80,6 +80,7 @@ A new addition for late 2024, Nikon has finally started making UVC cameras! 😀
 - Sony a1 [(4K30)](https://helpguide.sony.net/ilc/2420/v1/en/contents/211h_usb_streaming.html)
 - Sony a1 II (4K30)
 - Sony a7 IV [(1080p60)](https://helpguide.sony.net/ilc/2110/v1/en/contents/TP1000660156.html)
+- Sony a7 V
 - Sony a7R V [(1080p60)](https://helpguide.sony.net/ilc/2230/v1/en/contents/TP1000669419.html)
 - Sony a7C [(720p30)](https://helpguide.sony.net/ilc/2020/v1/en/contents/TP1000553122.html) ❗No USB-C Power Delivery
 - Sony a7C II [(4K30)](https://helpguide.sony.net/ilc/2360/v1/en/contents/211h_usb_streaming.html)
